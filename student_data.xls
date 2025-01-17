@@ -1,0 +1,1206 @@
+education_level,institute_type,gender,age,device,it_student,location,finacial_condition,internet_type,network_type,flexibility_level
+University,Public,Male,14,Smartphone,Yes,Urban,Good,Broadband,4G,Medium
+School,Private,Female,28,Laptop,Yes,Rural,Good,Satellite,4G,Medium
+University,Public,Female,11,Smartphone,Yes,Rural,Poor,Broadband,4G,Medium
+University,Public,Female,17,Smartphone,Yes,Urban,Poor,Satellite,4G,Medium
+School,Private,Female,16,Tablet,Yes,Urban,Average,Mobile Data,5G,Medium
+School,Private,Male,25,Laptop,No,Urban,Good,Satellite,5G,High
+University,Private,Male,28,Desktop,No,Urban,Poor,Satellite,5G,Medium
+College,Private,Male,21,Tablet,No,Rural,Poor,Mobile Data,4G,Low
+University,Public,Female,25,Tablet,No,Rural,Poor,Fiber Optic,5G,Low
+University,Public,Female,26,Desktop,Yes,Urban,Average,Mobile Data,4G,Medium
+University,Public,Male,17,Tablet,Yes,Rural,Good,Broadband,5G,Low
+University,Public,Male,20,Laptop,Yes,Rural,Poor,Broadband,4G,High
+School,Private,Male,22,Smartphone,No,Rural,Good,Broadband,5G,High
+University,Public,Male,24,Laptop,No,Urban,Poor,Broadband,4G,Medium
+College,Public,Female,15,Desktop,No,Rural,Poor,Broadband,5G,Medium
+School,Private,Male,28,Desktop,Yes,Urban,Good,Fiber Optic,4G,Medium
+College,Public,Male,15,Tablet,No,Urban,Good,Fiber Optic,5G,Low
+College,Public,Male,13,Laptop,Yes,Rural,Good,Satellite,4G,Low
+College,Public,Male,15,Laptop,Yes,Rural,Average,Broadband,5G,High
+College,Public,Male,27,Desktop,Yes,Urban,Poor,Mobile Data,5G,Low
+School,Public,Male,29,Laptop,Yes,Rural,Average,Broadband,5G,High
+School,Public,Male,29,Desktop,Yes,Rural,Good,Fiber Optic,4G,Low
+College,Private,Female,22,Laptop,Yes,Urban,Poor,Broadband,4G,High
+College,Private,Female,19,Laptop,No,Urban,Average,Fiber Optic,4G,Medium
+School,Public,Female,11,Laptop,Yes,Urban,Poor,Satellite,4G,Low
+School,Public,Female,28,Desktop,Yes,Urban,Average,Satellite,4G,High
+School,Private,Male,14,Tablet,No,Rural,Good,Satellite,5G,Low
+University,Public,Female,20,Laptop,Yes,Rural,Average,Fiber Optic,4G,Medium
+University,Public,Female,17,Desktop,No,Urban,Poor,Broadband,5G,High
+University,Public,Male,11,Desktop,No,Urban,Poor,Broadband,5G,Low
+College,Private,Male,27,Laptop,No,Urban,Poor,Mobile Data,4G,Low
+University,Public,Female,12,Laptop,Yes,Rural,Poor,Fiber Optic,5G,Medium
+College,Private,Female,21,Tablet,Yes,Urban,Good,Mobile Data,4G,Medium
+College,Public,Male,19,Desktop,No,Rural,Average,Satellite,4G,High
+University,Private,Female,17,Desktop,Yes,Urban,Good,Broadband,4G,Low
+College,Private,Male,27,Smartphone,Yes,Urban,Good,Fiber Optic,5G,Low
+University,Public,Male,27,Desktop,No,Urban,Good,Mobile Data,4G,Medium
+University,Private,Male,12,Tablet,No,Rural,Poor,Mobile Data,4G,Medium
+School,Public,Male,16,Smartphone,Yes,Rural,Poor,Mobile Data,4G,High
+University,Private,Female,24,Smartphone,No,Rural,Poor,Broadband,5G,Low
+School,Public,Male,16,Smartphone,No,Urban,Average,Broadband,4G,Low
+University,Public,Male,12,Laptop,No,Rural,Poor,Broadband,5G,High
+University,Private,Female,11,Laptop,Yes,Rural,Average,Fiber Optic,5G,High
+School,Public,Male,20,Desktop,Yes,Urban,Poor,Broadband,4G,Medium
+School,Public,Female,15,Smartphone,Yes,Urban,Poor,Fiber Optic,5G,Medium
+University,Private,Female,12,Tablet,No,Rural,Good,Mobile Data,5G,High
+College,Public,Female,26,Laptop,Yes,Rural,Good,Mobile Data,4G,High
+School,Public,Male,12,Tablet,No,Rural,Good,Satellite,4G,Low
+College,Private,Female,20,Tablet,Yes,Rural,Average,Broadband,4G,High
+College,Private,Female,12,Laptop,Yes,Urban,Average,Mobile Data,5G,High
+College,Public,Male,26,Laptop,No,Urban,Poor,Broadband,4G,Low
+School,Public,Female,26,Laptop,Yes,Urban,Average,Fiber Optic,5G,High
+College,Private,Female,29,Laptop,No,Rural,Poor,Mobile Data,5G,Medium
+School,Private,Female,17,Smartphone,Yes,Rural,Average,Broadband,5G,Medium
+College,Public,Female,22,Smartphone,Yes,Urban,Average,Mobile Data,5G,Low
+University,Private,Female,25,Smartphone,No,Urban,Average,Mobile Data,5G,High
+University,Public,Male,18,Smartphone,No,Rural,Good,Broadband,4G,Medium
+School,Public,Female,16,Desktop,No,Rural,Average,Mobile Data,4G,Medium
+University,Public,Female,20,Smartphone,Yes,Urban,Good,Mobile Data,5G,Medium
+University,Public,Male,13,Laptop,Yes,Urban,Good,Mobile Data,5G,Medium
+College,Public,Male,29,Tablet,Yes,Urban,Average,Mobile Data,4G,High
+School,Private,Male,27,Smartphone,No,Rural,Poor,Fiber Optic,4G,High
+College,Private,Female,17,Desktop,No,Rural,Poor,Mobile Data,5G,High
+College,Private,Male,14,Laptop,No,Rural,Poor,Satellite,5G,High
+College,Private,Female,24,Tablet,Yes,Rural,Average,Mobile Data,4G,Medium
+College,Public,Female,25,Tablet,Yes,Rural,Poor,Broadband,4G,Low
+College,Public,Male,18,Smartphone,No,Rural,Good,Satellite,5G,Low
+College,Public,Male,25,Tablet,Yes,Urban,Poor,Fiber Optic,4G,Medium
+College,Public,Female,24,Smartphone,No,Urban,Average,Satellite,4G,Medium
+School,Private,Male,19,Smartphone,Yes,Rural,Poor,Satellite,5G,Low
+University,Public,Female,18,Laptop,Yes,Urban,Good,Satellite,5G,Low
+College,Public,Male,27,Laptop,No,Rural,Average,Broadband,5G,Medium
+College,Private,Male,12,Desktop,Yes,Urban,Poor,Broadband,4G,Medium
+College,Private,Male,13,Laptop,Yes,Rural,Average,Broadband,5G,High
+College,Private,Female,18,Laptop,No,Urban,Average,Fiber Optic,4G,High
+College,Private,Male,22,Smartphone,No,Urban,Average,Broadband,5G,Low
+College,Public,Female,11,Laptop,Yes,Rural,Poor,Broadband,5G,Medium
+University,Public,Female,20,Smartphone,No,Rural,Average,Satellite,4G,Low
+University,Private,Female,13,Smartphone,Yes,Urban,Poor,Broadband,4G,High
+College,Public,Female,16,Laptop,No,Urban,Good,Mobile Data,5G,High
+University,Public,Male,17,Desktop,Yes,Rural,Poor,Broadband,5G,Low
+School,Public,Female,28,Desktop,Yes,Urban,Good,Fiber Optic,4G,High
+College,Private,Female,21,Tablet,No,Rural,Poor,Fiber Optic,5G,Medium
+School,Public,Male,29,Tablet,Yes,Rural,Average,Mobile Data,4G,Low
+School,Private,Female,15,Laptop,Yes,Urban,Poor,Fiber Optic,4G,Medium
+College,Public,Male,29,Desktop,No,Rural,Average,Fiber Optic,5G,Medium
+University,Public,Female,21,Smartphone,No,Urban,Good,Satellite,4G,High
+School,Public,Male,22,Tablet,Yes,Urban,Poor,Mobile Data,4G,Medium
+College,Private,Female,20,Smartphone,No,Rural,Average,Satellite,4G,Low
+School,Public,Male,18,Tablet,No,Urban,Good,Satellite,5G,Medium
+School,Private,Female,19,Laptop,Yes,Rural,Good,Broadband,4G,Medium
+School,Private,Female,14,Desktop,Yes,Rural,Poor,Mobile Data,5G,Medium
+School,Private,Male,15,Tablet,No,Rural,Good,Broadband,5G,Medium
+University,Public,Male,18,Desktop,No,Urban,Average,Broadband,5G,Medium
+School,Public,Male,19,Smartphone,No,Rural,Good,Satellite,4G,High
+School,Public,Male,25,Laptop,Yes,Urban,Good,Fiber Optic,4G,Low
+School,Public,Female,25,Desktop,Yes,Rural,Average,Mobile Data,5G,High
+University,Private,Female,26,Laptop,Yes,Rural,Good,Fiber Optic,5G,Low
+School,Private,Male,24,Desktop,Yes,Rural,Good,Satellite,4G,Low
+School,Private,Female,18,Smartphone,Yes,Urban,Good,Satellite,5G,Low
+University,Public,Male,28,Smartphone,Yes,Urban,Good,Satellite,5G,Low
+University,Private,Male,20,Laptop,Yes,Rural,Average,Satellite,4G,Low
+University,Public,Female,16,Smartphone,No,Rural,Good,Satellite,5G,Medium
+School,Private,Female,22,Tablet,No,Urban,Average,Satellite,4G,High
+University,Public,Female,12,Desktop,Yes,Urban,Good,Fiber Optic,4G,High
+University,Public,Female,17,Smartphone,Yes,Urban,Good,Broadband,5G,Medium
+School,Private,Female,26,Tablet,Yes,Rural,Good,Fiber Optic,4G,Low
+University,Private,Female,13,Laptop,No,Urban,Good,Mobile Data,4G,High
+School,Private,Female,23,Tablet,Yes,Rural,Average,Fiber Optic,4G,Medium
+College,Private,Male,13,Laptop,No,Urban,Average,Satellite,5G,Medium
+University,Public,Male,28,Laptop,No,Rural,Average,Fiber Optic,5G,High
+College,Private,Male,21,Desktop,No,Rural,Poor,Broadband,5G,High
+School,Private,Male,18,Desktop,No,Rural,Good,Mobile Data,4G,Low
+University,Private,Male,16,Tablet,No,Urban,Good,Fiber Optic,4G,Low
+School,Public,Female,11,Desktop,Yes,Urban,Average,Broadband,5G,High
+College,Public,Male,11,Desktop,Yes,Urban,Poor,Fiber Optic,5G,Low
+School,Private,Male,18,Desktop,No,Rural,Good,Mobile Data,4G,Medium
+University,Public,Male,15,Tablet,Yes,Rural,Average,Fiber Optic,5G,Low
+University,Private,Male,26,Smartphone,No,Urban,Good,Satellite,5G,Low
+College,Public,Male,21,Desktop,No,Rural,Good,Fiber Optic,5G,Medium
+School,Public,Male,15,Desktop,Yes,Rural,Average,Broadband,5G,Low
+University,Public,Male,14,Tablet,Yes,Rural,Average,Fiber Optic,5G,Medium
+College,Public,Female,16,Smartphone,Yes,Urban,Good,Broadband,4G,Low
+University,Private,Female,24,Desktop,Yes,Rural,Good,Mobile Data,5G,High
+University,Private,Male,29,Laptop,Yes,Urban,Average,Fiber Optic,5G,Low
+School,Private,Female,19,Tablet,No,Urban,Good,Mobile Data,4G,High
+University,Public,Female,22,Desktop,Yes,Urban,Good,Mobile Data,4G,High
+School,Private,Female,21,Desktop,Yes,Urban,Average,Fiber Optic,4G,High
+University,Private,Female,24,Laptop,Yes,Urban,Good,Broadband,4G,High
+College,Private,Male,26,Laptop,No,Rural,Good,Mobile Data,5G,High
+University,Public,Female,11,Tablet,Yes,Urban,Poor,Mobile Data,5G,Medium
+School,Public,Female,23,Tablet,No,Urban,Average,Fiber Optic,5G,Medium
+School,Public,Female,23,Laptop,Yes,Urban,Poor,Fiber Optic,5G,Medium
+College,Private,Male,12,Tablet,Yes,Rural,Poor,Fiber Optic,4G,High
+University,Private,Male,14,Laptop,No,Rural,Poor,Fiber Optic,4G,Low
+University,Private,Male,16,Desktop,Yes,Rural,Good,Fiber Optic,5G,Medium
+College,Public,Male,15,Laptop,Yes,Rural,Good,Satellite,5G,Low
+University,Public,Male,13,Laptop,No,Urban,Poor,Fiber Optic,5G,Low
+University,Private,Male,11,Smartphone,Yes,Urban,Poor,Broadband,5G,High
+School,Public,Male,14,Laptop,No,Rural,Poor,Mobile Data,4G,High
+University,Public,Female,12,Laptop,No,Rural,Good,Broadband,5G,High
+University,Public,Female,15,Smartphone,No,Rural,Poor,Broadband,4G,Medium
+College,Public,Female,13,Tablet,No,Rural,Poor,Satellite,4G,High
+College,Private,Male,19,Smartphone,No,Urban,Average,Fiber Optic,4G,Medium
+School,Public,Male,16,Desktop,Yes,Rural,Average,Mobile Data,4G,Medium
+University,Public,Male,28,Smartphone,Yes,Rural,Good,Broadband,5G,Medium
+University,Public,Male,16,Desktop,Yes,Rural,Average,Fiber Optic,5G,Medium
+University,Public,Male,29,Tablet,No,Rural,Average,Fiber Optic,5G,High
+School,Private,Female,22,Smartphone,No,Rural,Average,Satellite,5G,Medium
+School,Private,Female,21,Smartphone,No,Rural,Good,Satellite,4G,High
+College,Public,Male,12,Tablet,No,Rural,Average,Satellite,4G,High
+School,Public,Male,25,Desktop,Yes,Urban,Good,Mobile Data,4G,Medium
+University,Public,Male,22,Smartphone,Yes,Urban,Poor,Broadband,5G,High
+University,Public,Male,22,Desktop,No,Urban,Average,Satellite,4G,Low
+School,Public,Female,19,Smartphone,No,Urban,Good,Satellite,4G,High
+University,Public,Male,12,Laptop,Yes,Urban,Average,Satellite,4G,High
+University,Private,Male,13,Smartphone,No,Urban,Poor,Broadband,4G,Medium
+School,Public,Male,22,Tablet,No,Rural,Good,Broadband,5G,Medium
+School,Private,Male,26,Tablet,No,Rural,Good,Satellite,4G,High
+University,Private,Female,11,Desktop,Yes,Urban,Good,Satellite,4G,Medium
+University,Public,Male,13,Smartphone,Yes,Rural,Poor,Fiber Optic,5G,Low
+University,Private,Male,12,Desktop,No,Urban,Poor,Satellite,5G,Low
+College,Private,Female,19,Desktop,Yes,Rural,Poor,Mobile Data,5G,Medium
+College,Private,Female,29,Laptop,No,Rural,Good,Mobile Data,4G,High
+College,Private,Female,25,Laptop,No,Rural,Poor,Satellite,4G,Low
+School,Private,Male,28,Tablet,Yes,Rural,Average,Broadband,4G,Low
+College,Private,Male,21,Desktop,No,Rural,Poor,Fiber Optic,4G,High
+School,Public,Female,26,Tablet,No,Rural,Good,Broadband,5G,Medium
+School,Private,Female,27,Smartphone,Yes,Urban,Average,Satellite,4G,Low
+College,Private,Female,15,Desktop,No,Urban,Poor,Mobile Data,4G,High
+College,Private,Female,22,Desktop,No,Rural,Average,Fiber Optic,5G,High
+College,Public,Female,21,Smartphone,No,Urban,Average,Broadband,5G,Low
+University,Private,Female,25,Smartphone,Yes,Rural,Good,Broadband,5G,Medium
+College,Public,Male,13,Tablet,No,Urban,Average,Satellite,4G,Low
+University,Private,Male,11,Tablet,Yes,Rural,Average,Fiber Optic,4G,High
+School,Public,Male,26,Smartphone,No,Urban,Good,Mobile Data,4G,Low
+University,Public,Female,12,Tablet,No,Rural,Good,Satellite,4G,Medium
+College,Private,Female,12,Smartphone,No,Urban,Good,Fiber Optic,4G,High
+School,Private,Female,13,Desktop,No,Rural,Average,Broadband,5G,Medium
+School,Public,Female,18,Desktop,Yes,Urban,Average,Satellite,5G,Low
+School,Private,Female,25,Laptop,Yes,Rural,Average,Broadband,4G,Low
+University,Public,Female,17,Desktop,No,Rural,Good,Broadband,4G,Medium
+College,Public,Male,16,Smartphone,No,Rural,Poor,Satellite,4G,Low
+School,Public,Male,19,Tablet,No,Urban,Average,Satellite,4G,Medium
+School,Public,Female,11,Laptop,No,Urban,Poor,Satellite,4G,Low
+School,Public,Male,18,Tablet,No,Urban,Good,Satellite,5G,Medium
+University,Private,Female,13,Smartphone,No,Rural,Average,Satellite,5G,Medium
+University,Public,Male,14,Desktop,No,Urban,Poor,Broadband,5G,High
+College,Public,Female,25,Laptop,No,Rural,Average,Mobile Data,4G,High
+University,Private,Female,16,Smartphone,Yes,Urban,Average,Mobile Data,4G,Medium
+School,Public,Male,25,Laptop,Yes,Urban,Average,Satellite,5G,Low
+College,Private,Male,13,Laptop,Yes,Urban,Poor,Broadband,5G,Low
+School,Private,Female,24,Desktop,No,Urban,Good,Mobile Data,4G,Low
+School,Private,Female,24,Smartphone,No,Rural,Average,Mobile Data,5G,Medium
+University,Public,Male,14,Tablet,No,Urban,Good,Mobile Data,5G,Medium
+College,Public,Male,22,Laptop,Yes,Urban,Good,Broadband,4G,Medium
+University,Public,Female,27,Laptop,No,Rural,Poor,Satellite,5G,Medium
+University,Private,Male,17,Tablet,Yes,Rural,Poor,Satellite,5G,High
+College,Public,Female,19,Smartphone,No,Urban,Good,Satellite,5G,Medium
+School,Private,Female,13,Laptop,Yes,Urban,Average,Fiber Optic,4G,Low
+School,Public,Female,23,Laptop,Yes,Rural,Poor,Fiber Optic,5G,High
+College,Private,Female,25,Laptop,Yes,Rural,Average,Fiber Optic,5G,Low
+School,Public,Male,28,Smartphone,No,Rural,Average,Broadband,5G,Medium
+College,Public,Male,29,Smartphone,Yes,Urban,Average,Mobile Data,4G,High
+College,Public,Male,11,Tablet,No,Urban,Good,Mobile Data,4G,Medium
+University,Private,Male,16,Smartphone,No,Urban,Average,Broadband,5G,High
+College,Private,Male,12,Smartphone,No,Rural,Good,Broadband,4G,Low
+University,Public,Male,24,Desktop,No,Rural,Good,Satellite,5G,Medium
+School,Public,Male,16,Tablet,No,Rural,Average,Satellite,4G,Medium
+School,Private,Female,24,Laptop,Yes,Urban,Average,Fiber Optic,4G,High
+School,Private,Male,14,Smartphone,No,Rural,Average,Fiber Optic,5G,High
+School,Private,Male,18,Laptop,No,Urban,Average,Broadband,5G,Medium
+University,Public,Female,13,Laptop,No,Rural,Good,Fiber Optic,5G,High
+School,Private,Male,29,Desktop,No,Urban,Average,Mobile Data,4G,Medium
+College,Public,Male,24,Smartphone,No,Urban,Average,Broadband,5G,High
+College,Private,Female,27,Tablet,Yes,Rural,Good,Broadband,4G,Low
+College,Public,Male,18,Smartphone,Yes,Urban,Poor,Mobile Data,4G,High
+University,Private,Male,24,Laptop,No,Rural,Poor,Satellite,5G,Low
+School,Private,Male,16,Tablet,Yes,Urban,Good,Satellite,4G,High
+School,Private,Female,26,Smartphone,Yes,Rural,Poor,Mobile Data,5G,High
+School,Private,Male,29,Laptop,No,Rural,Good,Mobile Data,4G,Medium
+University,Private,Male,24,Laptop,Yes,Urban,Average,Fiber Optic,5G,High
+College,Public,Female,29,Desktop,No,Rural,Average,Broadband,4G,High
+College,Private,Male,13,Desktop,Yes,Urban,Poor,Fiber Optic,4G,Low
+School,Private,Female,20,Desktop,Yes,Rural,Average,Mobile Data,5G,High
+College,Private,Female,29,Laptop,Yes,Rural,Poor,Fiber Optic,4G,Medium
+College,Public,Male,19,Smartphone,No,Rural,Poor,Mobile Data,5G,Low
+University,Private,Female,23,Desktop,Yes,Rural,Average,Fiber Optic,4G,Medium
+University,Public,Female,17,Smartphone,Yes,Urban,Average,Fiber Optic,4G,Medium
+University,Private,Male,24,Desktop,No,Rural,Poor,Satellite,4G,Medium
+University,Private,Female,19,Tablet,No,Rural,Average,Mobile Data,5G,Medium
+School,Public,Female,29,Tablet,Yes,Urban,Good,Fiber Optic,5G,Low
+University,Private,Male,25,Desktop,No,Urban,Average,Broadband,5G,High
+College,Public,Male,24,Laptop,Yes,Urban,Average,Fiber Optic,5G,Medium
+School,Public,Male,16,Desktop,Yes,Urban,Good,Fiber Optic,5G,Low
+College,Private,Female,14,Desktop,No,Urban,Average,Broadband,4G,Medium
+College,Public,Male,18,Laptop,No,Urban,Average,Mobile Data,4G,High
+College,Private,Female,27,Tablet,No,Rural,Poor,Satellite,5G,Low
+University,Private,Female,19,Smartphone,Yes,Urban,Average,Satellite,4G,Low
+University,Public,Female,11,Desktop,No,Rural,Average,Satellite,4G,High
+School,Public,Female,24,Laptop,Yes,Urban,Good,Broadband,4G,Low
+School,Public,Female,21,Desktop,No,Rural,Poor,Fiber Optic,4G,High
+University,Public,Female,13,Laptop,Yes,Rural,Poor,Mobile Data,5G,Low
+College,Private,Female,19,Smartphone,No,Rural,Poor,Fiber Optic,4G,Low
+School,Private,Male,24,Smartphone,Yes,Urban,Average,Satellite,5G,High
+University,Public,Male,19,Tablet,No,Urban,Poor,Fiber Optic,5G,High
+University,Private,Female,14,Laptop,Yes,Urban,Good,Broadband,4G,Low
+University,Private,Female,14,Laptop,No,Urban,Poor,Broadband,5G,Low
+College,Private,Male,18,Tablet,No,Rural,Good,Mobile Data,4G,High
+University,Private,Female,12,Tablet,Yes,Urban,Poor,Mobile Data,4G,High
+University,Public,Male,19,Laptop,No,Rural,Poor,Satellite,4G,Low
+University,Public,Male,24,Tablet,Yes,Rural,Good,Mobile Data,5G,Low
+University,Private,Male,19,Smartphone,Yes,Urban,Poor,Fiber Optic,5G,Low
+School,Public,Female,26,Desktop,No,Urban,Poor,Broadband,5G,High
+School,Public,Female,27,Smartphone,Yes,Urban,Poor,Broadband,4G,Low
+University,Public,Male,26,Tablet,No,Rural,Average,Broadband,4G,Medium
+College,Private,Male,22,Laptop,No,Urban,Good,Mobile Data,4G,High
+School,Private,Male,13,Laptop,Yes,Rural,Poor,Broadband,5G,Low
+University,Private,Male,21,Smartphone,No,Urban,Good,Broadband,4G,High
+School,Public,Male,24,Laptop,Yes,Rural,Good,Broadband,4G,Medium
+School,Private,Female,28,Tablet,Yes,Urban,Good,Satellite,5G,High
+College,Private,Male,15,Smartphone,No,Urban,Poor,Satellite,5G,Low
+University,Public,Female,26,Laptop,No,Rural,Poor,Mobile Data,5G,Medium
+University,Private,Male,15,Desktop,Yes,Urban,Good,Broadband,4G,Medium
+College,Private,Female,13,Desktop,Yes,Urban,Average,Mobile Data,4G,Low
+College,Public,Female,22,Tablet,No,Urban,Good,Broadband,4G,Low
+University,Public,Female,11,Laptop,No,Urban,Average,Broadband,5G,Low
+University,Public,Female,19,Tablet,No,Urban,Good,Broadband,5G,High
+College,Private,Female,19,Smartphone,No,Urban,Good,Mobile Data,5G,High
+School,Private,Female,14,Desktop,Yes,Urban,Good,Mobile Data,5G,High
+School,Private,Male,13,Smartphone,No,Rural,Poor,Broadband,4G,Low
+College,Public,Female,27,Laptop,Yes,Rural,Average,Fiber Optic,4G,Low
+School,Public,Male,12,Tablet,Yes,Urban,Average,Mobile Data,4G,High
+College,Private,Female,11,Tablet,No,Urban,Good,Satellite,4G,Medium
+School,Private,Female,18,Tablet,Yes,Urban,Poor,Mobile Data,4G,High
+School,Public,Male,23,Smartphone,No,Rural,Poor,Broadband,4G,Medium
+University,Public,Female,25,Desktop,Yes,Rural,Average,Fiber Optic,4G,Low
+University,Public,Male,18,Smartphone,No,Urban,Poor,Broadband,4G,Low
+School,Public,Male,22,Smartphone,Yes,Rural,Average,Satellite,5G,High
+School,Private,Male,22,Laptop,Yes,Urban,Average,Mobile Data,5G,High
+University,Public,Male,24,Laptop,No,Urban,Average,Mobile Data,4G,Low
+University,Private,Female,25,Laptop,No,Urban,Poor,Broadband,5G,High
+University,Private,Female,25,Desktop,Yes,Urban,Average,Broadband,4G,Low
+College,Private,Male,19,Desktop,Yes,Rural,Average,Satellite,4G,Low
+School,Public,Female,29,Laptop,No,Rural,Good,Fiber Optic,5G,Medium
+University,Public,Female,18,Laptop,Yes,Urban,Average,Satellite,4G,High
+School,Public,Male,29,Desktop,No,Rural,Average,Fiber Optic,4G,Low
+College,Public,Female,16,Tablet,Yes,Rural,Good,Mobile Data,4G,High
+College,Private,Male,29,Desktop,No,Urban,Good,Fiber Optic,4G,Medium
+University,Public,Male,14,Desktop,Yes,Rural,Poor,Fiber Optic,4G,Medium
+College,Public,Female,17,Desktop,No,Urban,Average,Mobile Data,4G,High
+School,Private,Female,14,Laptop,No,Urban,Poor,Mobile Data,4G,High
+University,Public,Female,22,Tablet,Yes,Urban,Poor,Mobile Data,5G,Low
+School,Private,Male,23,Desktop,No,Urban,Good,Satellite,5G,Medium
+School,Private,Male,13,Laptop,Yes,Rural,Poor,Mobile Data,4G,Medium
+College,Private,Female,22,Smartphone,No,Urban,Average,Broadband,5G,Medium
+College,Private,Female,12,Smartphone,No,Rural,Good,Mobile Data,4G,High
+College,Private,Female,12,Desktop,No,Urban,Average,Mobile Data,4G,Low
+College,Private,Female,19,Smartphone,Yes,Urban,Average,Mobile Data,4G,High
+College,Private,Male,11,Tablet,No,Rural,Good,Fiber Optic,4G,High
+University,Private,Female,18,Smartphone,Yes,Urban,Average,Satellite,5G,High
+School,Public,Male,16,Smartphone,No,Rural,Good,Mobile Data,5G,Low
+School,Public,Male,16,Tablet,Yes,Rural,Average,Satellite,5G,High
+School,Public,Female,28,Desktop,Yes,Urban,Good,Broadband,5G,Medium
+School,Public,Female,27,Desktop,Yes,Urban,Poor,Broadband,4G,Medium
+College,Private,Female,22,Tablet,No,Urban,Average,Mobile Data,5G,Medium
+School,Public,Male,16,Tablet,Yes,Urban,Good,Broadband,4G,Low
+University,Private,Female,18,Tablet,No,Urban,Average,Satellite,4G,High
+University,Public,Female,29,Smartphone,Yes,Urban,Average,Fiber Optic,5G,Low
+School,Public,Male,20,Tablet,Yes,Rural,Average,Mobile Data,4G,High
+School,Public,Female,11,Laptop,Yes,Rural,Good,Broadband,5G,Medium
+University,Private,Male,23,Smartphone,Yes,Urban,Poor,Satellite,5G,High
+University,Public,Female,27,Desktop,No,Rural,Poor,Satellite,5G,High
+College,Private,Male,13,Desktop,Yes,Rural,Poor,Broadband,5G,High
+University,Private,Female,18,Desktop,Yes,Urban,Good,Satellite,5G,Low
+College,Public,Female,24,Smartphone,No,Urban,Poor,Satellite,4G,High
+College,Public,Male,13,Laptop,Yes,Rural,Good,Mobile Data,5G,High
+College,Public,Male,26,Tablet,Yes,Urban,Average,Satellite,5G,High
+College,Private,Female,23,Tablet,Yes,Rural,Average,Broadband,4G,Low
+College,Public,Male,27,Desktop,Yes,Urban,Poor,Mobile Data,5G,Low
+School,Private,Male,23,Desktop,No,Rural,Good,Broadband,5G,Low
+University,Private,Male,16,Smartphone,No,Rural,Average,Fiber Optic,4G,High
+College,Public,Male,27,Laptop,Yes,Rural,Good,Broadband,4G,Medium
+University,Public,Female,24,Tablet,No,Rural,Good,Broadband,5G,Medium
+University,Private,Female,27,Smartphone,No,Urban,Average,Mobile Data,4G,Medium
+College,Private,Male,18,Tablet,Yes,Urban,Good,Satellite,5G,High
+School,Private,Male,21,Desktop,No,Rural,Average,Broadband,4G,Medium
+College,Public,Male,11,Tablet,Yes,Rural,Average,Mobile Data,5G,Medium
+School,Private,Male,17,Laptop,No,Urban,Average,Fiber Optic,5G,Medium
+University,Public,Female,27,Laptop,No,Urban,Good,Mobile Data,5G,High
+School,Private,Female,20,Desktop,No,Rural,Average,Mobile Data,4G,Medium
+School,Private,Male,21,Laptop,Yes,Rural,Good,Satellite,5G,Medium
+School,Public,Male,19,Laptop,No,Rural,Average,Broadband,4G,High
+University,Private,Male,19,Smartphone,Yes,Rural,Average,Fiber Optic,5G,Low
+University,Public,Female,15,Tablet,Yes,Rural,Poor,Mobile Data,5G,Medium
+School,Public,Male,27,Desktop,No,Urban,Poor,Broadband,5G,Low
+School,Private,Female,19,Desktop,Yes,Rural,Poor,Broadband,5G,Medium
+College,Public,Male,27,Desktop,No,Urban,Good,Mobile Data,5G,High
+School,Public,Female,29,Desktop,Yes,Urban,Good,Broadband,4G,Low
+College,Private,Male,17,Desktop,Yes,Urban,Average,Mobile Data,4G,Low
+School,Public,Female,19,Laptop,No,Rural,Average,Mobile Data,4G,Low
+College,Public,Male,17,Smartphone,No,Urban,Average,Mobile Data,5G,Low
+University,Public,Male,23,Desktop,No,Urban,Average,Fiber Optic,5G,Medium
+School,Private,Male,21,Smartphone,No,Urban,Good,Mobile Data,4G,Medium
+School,Public,Female,24,Smartphone,Yes,Urban,Average,Satellite,5G,Low
+School,Private,Male,29,Laptop,Yes,Rural,Average,Broadband,5G,Medium
+School,Private,Female,21,Desktop,Yes,Rural,Poor,Fiber Optic,5G,Low
+College,Public,Female,23,Laptop,No,Urban,Average,Broadband,4G,Low
+School,Public,Male,24,Desktop,Yes,Urban,Average,Fiber Optic,4G,High
+University,Public,Male,23,Laptop,No,Rural,Average,Satellite,4G,Low
+University,Private,Male,11,Smartphone,Yes,Rural,Good,Fiber Optic,4G,Medium
+School,Public,Female,18,Desktop,No,Rural,Poor,Fiber Optic,4G,Low
+University,Public,Male,22,Tablet,Yes,Urban,Average,Fiber Optic,5G,High
+School,Public,Female,29,Smartphone,Yes,Rural,Average,Broadband,5G,Medium
+School,Public,Female,22,Tablet,No,Urban,Poor,Mobile Data,5G,High
+University,Public,Male,18,Smartphone,Yes,Urban,Average,Broadband,5G,High
+School,Private,Male,18,Laptop,No,Rural,Good,Mobile Data,4G,Low
+University,Private,Male,23,Desktop,Yes,Urban,Average,Broadband,4G,High
+College,Public,Male,22,Smartphone,Yes,Rural,Good,Satellite,5G,High
+School,Public,Male,26,Laptop,No,Urban,Good,Satellite,4G,Medium
+College,Public,Male,11,Desktop,No,Rural,Average,Fiber Optic,5G,High
+University,Public,Female,23,Desktop,Yes,Urban,Poor,Satellite,5G,Low
+College,Private,Female,17,Smartphone,Yes,Urban,Good,Fiber Optic,5G,Low
+College,Public,Female,15,Desktop,Yes,Rural,Poor,Mobile Data,5G,Low
+University,Private,Male,18,Smartphone,Yes,Rural,Average,Satellite,4G,High
+College,Private,Female,24,Desktop,Yes,Rural,Good,Mobile Data,5G,Medium
+College,Public,Female,23,Tablet,Yes,Rural,Average,Broadband,4G,Low
+University,Private,Female,25,Laptop,No,Urban,Poor,Mobile Data,5G,High
+College,Private,Female,27,Tablet,No,Rural,Average,Broadband,5G,Low
+University,Private,Female,25,Smartphone,No,Rural,Average,Mobile Data,5G,Low
+College,Private,Male,28,Tablet,Yes,Urban,Good,Mobile Data,5G,Medium
+University,Public,Male,28,Smartphone,Yes,Rural,Average,Satellite,4G,Low
+University,Public,Female,12,Desktop,Yes,Rural,Average,Mobile Data,5G,Medium
+College,Private,Female,14,Desktop,No,Urban,Average,Satellite,4G,High
+College,Public,Female,11,Smartphone,No,Rural,Good,Satellite,5G,Low
+College,Public,Male,14,Tablet,Yes,Rural,Poor,Fiber Optic,5G,High
+School,Public,Male,28,Desktop,Yes,Rural,Poor,Fiber Optic,5G,High
+School,Public,Female,15,Laptop,No,Rural,Average,Broadband,4G,High
+School,Public,Male,29,Desktop,No,Rural,Good,Mobile Data,5G,Low
+University,Private,Male,25,Laptop,No,Rural,Average,Broadband,5G,Medium
+College,Public,Female,18,Tablet,Yes,Urban,Poor,Mobile Data,5G,Low
+University,Public,Male,27,Laptop,Yes,Rural,Good,Fiber Optic,5G,High
+School,Public,Male,11,Laptop,Yes,Urban,Poor,Fiber Optic,5G,Medium
+College,Public,Female,22,Laptop,No,Urban,Poor,Mobile Data,4G,High
+University,Private,Male,29,Laptop,No,Urban,Good,Mobile Data,4G,Medium
+College,Private,Male,25,Desktop,Yes,Urban,Good,Fiber Optic,5G,Low
+University,Private,Female,19,Laptop,Yes,Rural,Average,Fiber Optic,5G,Medium
+College,Private,Male,17,Desktop,No,Rural,Average,Broadband,4G,Low
+School,Public,Male,12,Laptop,Yes,Rural,Poor,Fiber Optic,5G,High
+School,Private,Female,19,Smartphone,No,Urban,Good,Mobile Data,4G,Medium
+College,Public,Female,20,Tablet,No,Rural,Good,Broadband,5G,High
+University,Public,Female,12,Laptop,Yes,Rural,Average,Mobile Data,5G,Medium
+School,Public,Male,29,Smartphone,No,Rural,Poor,Satellite,4G,Low
+School,Public,Female,21,Laptop,Yes,Urban,Poor,Broadband,5G,Medium
+School,Public,Male,23,Laptop,No,Urban,Average,Mobile Data,4G,Medium
+College,Private,Female,20,Laptop,No,Rural,Good,Fiber Optic,4G,Low
+College,Private,Male,24,Smartphone,Yes,Urban,Average,Satellite,4G,Low
+University,Private,Female,28,Tablet,No,Urban,Average,Mobile Data,5G,Low
+University,Private,Female,29,Smartphone,Yes,Rural,Average,Broadband,4G,Medium
+University,Public,Female,19,Tablet,Yes,Urban,Average,Mobile Data,4G,High
+College,Private,Female,17,Laptop,No,Urban,Good,Satellite,5G,Medium
+College,Public,Male,13,Desktop,Yes,Rural,Average,Broadband,5G,Medium
+University,Private,Female,16,Laptop,Yes,Urban,Good,Satellite,5G,High
+University,Public,Female,12,Tablet,Yes,Urban,Average,Mobile Data,5G,Low
+College,Public,Male,16,Smartphone,Yes,Urban,Poor,Fiber Optic,5G,Medium
+University,Private,Female,13,Laptop,Yes,Urban,Good,Fiber Optic,5G,High
+School,Public,Male,26,Smartphone,Yes,Urban,Poor,Mobile Data,4G,Low
+College,Public,Female,18,Smartphone,No,Urban,Average,Mobile Data,5G,Low
+University,Private,Female,12,Smartphone,Yes,Urban,Average,Mobile Data,4G,Medium
+College,Public,Female,27,Laptop,No,Urban,Average,Broadband,5G,Low
+School,Private,Male,19,Smartphone,No,Rural,Good,Satellite,4G,Low
+College,Private,Female,22,Smartphone,Yes,Rural,Poor,Satellite,4G,High
+College,Private,Female,13,Laptop,No,Rural,Good,Satellite,5G,High
+College,Public,Female,21,Smartphone,No,Rural,Good,Mobile Data,5G,Low
+College,Public,Male,11,Laptop,Yes,Urban,Average,Satellite,4G,High
+School,Public,Male,23,Tablet,Yes,Rural,Poor,Mobile Data,5G,Low
+College,Private,Female,25,Tablet,Yes,Rural,Average,Broadband,5G,Medium
+College,Public,Male,15,Tablet,No,Urban,Good,Fiber Optic,4G,High
+University,Private,Female,27,Smartphone,No,Urban,Average,Mobile Data,4G,Low
+College,Private,Female,16,Desktop,Yes,Urban,Poor,Mobile Data,4G,Low
+University,Public,Female,21,Desktop,Yes,Urban,Average,Fiber Optic,5G,High
+School,Private,Female,28,Smartphone,No,Urban,Poor,Fiber Optic,5G,High
+School,Public,Female,14,Desktop,No,Rural,Poor,Broadband,5G,Medium
+School,Public,Female,13,Laptop,No,Urban,Average,Satellite,5G,Low
+School,Public,Female,23,Desktop,No,Rural,Good,Mobile Data,4G,Medium
+University,Public,Male,19,Smartphone,Yes,Rural,Average,Satellite,5G,Medium
+College,Public,Male,16,Smartphone,No,Urban,Good,Mobile Data,4G,Medium
+School,Private,Male,22,Laptop,No,Rural,Good,Broadband,5G,High
+College,Private,Male,12,Tablet,No,Rural,Average,Fiber Optic,5G,Medium
+University,Private,Male,13,Smartphone,No,Urban,Good,Broadband,4G,High
+University,Public,Male,13,Laptop,Yes,Rural,Good,Fiber Optic,5G,High
+University,Public,Male,22,Desktop,Yes,Rural,Average,Satellite,5G,Medium
+School,Public,Female,25,Desktop,No,Rural,Average,Satellite,4G,Medium
+College,Private,Female,19,Laptop,No,Urban,Average,Broadband,5G,Low
+College,Public,Female,18,Laptop,Yes,Urban,Good,Fiber Optic,4G,Medium
+College,Private,Female,21,Smartphone,Yes,Urban,Poor,Broadband,4G,Low
+University,Private,Male,26,Desktop,No,Rural,Good,Fiber Optic,4G,Medium
+School,Public,Male,14,Laptop,No,Urban,Poor,Fiber Optic,4G,Medium
+University,Public,Female,11,Desktop,Yes,Rural,Average,Satellite,5G,Medium
+University,Private,Female,17,Laptop,Yes,Urban,Poor,Satellite,5G,Medium
+College,Public,Male,12,Desktop,Yes,Rural,Average,Fiber Optic,5G,Low
+University,Private,Female,15,Tablet,Yes,Urban,Average,Fiber Optic,4G,Low
+College,Public,Female,17,Smartphone,Yes,Urban,Poor,Fiber Optic,5G,Medium
+School,Public,Female,14,Desktop,Yes,Rural,Average,Satellite,5G,Medium
+College,Private,Female,15,Tablet,No,Urban,Poor,Satellite,5G,Low
+School,Public,Male,11,Desktop,Yes,Rural,Average,Mobile Data,5G,High
+College,Private,Female,11,Desktop,Yes,Urban,Good,Fiber Optic,4G,High
+University,Public,Female,25,Tablet,Yes,Urban,Good,Mobile Data,4G,High
+University,Private,Male,29,Desktop,Yes,Rural,Average,Fiber Optic,5G,Low
+School,Private,Male,20,Desktop,No,Rural,Average,Satellite,4G,Low
+School,Public,Female,28,Smartphone,No,Rural,Poor,Mobile Data,5G,High
+School,Private,Male,13,Tablet,Yes,Urban,Good,Mobile Data,5G,High
+College,Public,Female,21,Tablet,No,Rural,Poor,Broadband,5G,Medium
+College,Public,Female,25,Laptop,No,Urban,Average,Fiber Optic,4G,Low
+School,Public,Male,21,Desktop,No,Rural,Average,Satellite,5G,Low
+University,Private,Female,27,Smartphone,No,Rural,Poor,Broadband,4G,High
+College,Private,Female,27,Desktop,No,Rural,Average,Broadband,4G,High
+College,Public,Female,16,Desktop,No,Rural,Good,Fiber Optic,5G,Low
+College,Public,Female,15,Laptop,Yes,Rural,Poor,Broadband,4G,Medium
+School,Private,Male,18,Desktop,Yes,Rural,Good,Fiber Optic,4G,High
+School,Public,Male,12,Smartphone,Yes,Urban,Good,Broadband,5G,Low
+School,Public,Female,26,Smartphone,Yes,Rural,Good,Fiber Optic,4G,Low
+School,Private,Male,22,Laptop,Yes,Urban,Poor,Satellite,4G,Medium
+School,Public,Female,16,Desktop,No,Rural,Average,Fiber Optic,5G,Medium
+University,Private,Female,11,Smartphone,Yes,Rural,Good,Fiber Optic,5G,High
+University,Public,Female,14,Desktop,Yes,Rural,Good,Mobile Data,4G,High
+School,Private,Female,27,Desktop,No,Urban,Good,Satellite,5G,High
+College,Public,Female,23,Desktop,No,Urban,Average,Satellite,5G,Low
+School,Public,Male,28,Laptop,Yes,Rural,Average,Satellite,4G,High
+University,Private,Female,15,Desktop,No,Urban,Poor,Broadband,4G,Low
+University,Public,Male,13,Smartphone,No,Rural,Average,Mobile Data,5G,High
+College,Private,Male,21,Desktop,No,Rural,Poor,Satellite,4G,Medium
+University,Public,Female,23,Smartphone,No,Urban,Poor,Broadband,5G,Medium
+School,Private,Female,14,Desktop,Yes,Urban,Poor,Broadband,5G,Low
+College,Private,Female,24,Smartphone,No,Urban,Poor,Broadband,4G,Medium
+School,Private,Female,21,Smartphone,Yes,Urban,Poor,Mobile Data,4G,Low
+School,Private,Female,20,Desktop,Yes,Rural,Good,Broadband,5G,Low
+College,Public,Male,29,Desktop,No,Urban,Average,Mobile Data,5G,Medium
+School,Public,Female,28,Smartphone,No,Urban,Good,Fiber Optic,5G,Low
+University,Private,Female,16,Tablet,No,Rural,Poor,Broadband,5G,Medium
+School,Private,Male,25,Laptop,Yes,Urban,Average,Satellite,4G,High
+College,Private,Male,20,Tablet,No,Urban,Good,Broadband,5G,High
+College,Public,Female,15,Tablet,No,Urban,Good,Fiber Optic,4G,Medium
+College,Public,Male,15,Desktop,No,Urban,Poor,Fiber Optic,4G,Medium
+School,Public,Female,20,Laptop,No,Rural,Good,Broadband,5G,Medium
+College,Public,Male,15,Tablet,No,Rural,Good,Fiber Optic,4G,Medium
+College,Private,Male,13,Desktop,Yes,Urban,Good,Mobile Data,4G,High
+School,Private,Female,16,Tablet,No,Urban,Good,Mobile Data,5G,Low
+University,Private,Male,14,Tablet,No,Rural,Good,Broadband,4G,Low
+School,Public,Male,28,Desktop,No,Urban,Poor,Mobile Data,4G,High
+College,Public,Male,19,Desktop,Yes,Urban,Poor,Mobile Data,5G,Low
+College,Public,Male,27,Desktop,No,Urban,Good,Satellite,5G,High
+School,Private,Male,23,Laptop,Yes,Urban,Poor,Broadband,5G,Low
+University,Private,Male,25,Tablet,Yes,Urban,Poor,Fiber Optic,5G,Medium
+College,Public,Female,27,Desktop,No,Urban,Average,Broadband,5G,Medium
+College,Private,Female,23,Smartphone,No,Urban,Good,Mobile Data,5G,Medium
+College,Public,Male,26,Tablet,No,Urban,Poor,Satellite,5G,High
+School,Public,Female,14,Smartphone,Yes,Urban,Poor,Broadband,4G,High
+College,Private,Female,15,Laptop,Yes,Rural,Good,Broadband,4G,Low
+University,Public,Female,15,Desktop,Yes,Rural,Average,Mobile Data,5G,Low
+College,Private,Male,19,Smartphone,Yes,Rural,Good,Mobile Data,4G,Low
+College,Public,Female,27,Laptop,Yes,Urban,Average,Broadband,4G,High
+University,Private,Male,23,Desktop,Yes,Urban,Good,Mobile Data,5G,Low
+College,Private,Female,12,Smartphone,No,Rural,Good,Mobile Data,4G,Medium
+School,Private,Male,23,Smartphone,No,Urban,Good,Mobile Data,5G,Low
+School,Public,Male,29,Laptop,Yes,Rural,Good,Mobile Data,4G,Medium
+School,Public,Female,13,Desktop,No,Urban,Average,Mobile Data,5G,High
+University,Private,Female,20,Desktop,No,Rural,Average,Satellite,4G,Medium
+College,Private,Male,12,Smartphone,Yes,Rural,Poor,Mobile Data,4G,Medium
+School,Public,Female,23,Smartphone,Yes,Rural,Good,Fiber Optic,4G,Medium
+University,Public,Female,29,Smartphone,No,Urban,Average,Broadband,5G,High
+College,Public,Female,27,Desktop,Yes,Rural,Average,Satellite,4G,High
+University,Private,Male,24,Laptop,Yes,Urban,Average,Satellite,4G,High
+School,Public,Male,22,Laptop,No,Urban,Good,Mobile Data,5G,High
+School,Public,Female,22,Desktop,Yes,Urban,Poor,Broadband,5G,Low
+School,Private,Female,21,Tablet,No,Urban,Average,Fiber Optic,4G,High
+University,Public,Female,17,Laptop,No,Urban,Good,Mobile Data,4G,Medium
+University,Public,Male,14,Smartphone,No,Urban,Average,Broadband,4G,High
+School,Public,Male,29,Tablet,No,Urban,Average,Mobile Data,4G,Low
+University,Private,Female,11,Tablet,No,Rural,Poor,Mobile Data,5G,Low
+School,Private,Female,13,Laptop,Yes,Rural,Average,Mobile Data,4G,Low
+School,Private,Female,23,Tablet,Yes,Rural,Average,Mobile Data,4G,Medium
+College,Private,Female,25,Tablet,Yes,Urban,Good,Mobile Data,5G,High
+University,Private,Female,12,Laptop,Yes,Urban,Good,Mobile Data,4G,High
+School,Private,Female,21,Laptop,No,Urban,Poor,Mobile Data,4G,High
+School,Private,Male,14,Tablet,No,Urban,Good,Fiber Optic,4G,Medium
+University,Public,Female,29,Smartphone,Yes,Rural,Good,Satellite,5G,Medium
+College,Public,Male,27,Desktop,No,Urban,Poor,Fiber Optic,5G,Low
+College,Private,Female,13,Tablet,Yes,Rural,Average,Mobile Data,4G,Low
+School,Public,Female,28,Tablet,Yes,Urban,Poor,Mobile Data,4G,High
+University,Public,Male,18,Smartphone,Yes,Rural,Good,Fiber Optic,5G,Medium
+College,Private,Male,29,Tablet,No,Urban,Poor,Fiber Optic,4G,Medium
+University,Public,Male,15,Tablet,No,Rural,Average,Satellite,4G,High
+University,Public,Male,17,Desktop,No,Urban,Poor,Fiber Optic,5G,High
+School,Public,Female,18,Desktop,No,Rural,Good,Satellite,5G,Low
+College,Public,Male,15,Desktop,Yes,Urban,Good,Mobile Data,5G,Low
+School,Public,Female,27,Laptop,No,Rural,Poor,Broadband,4G,Low
+College,Private,Male,15,Laptop,No,Rural,Average,Broadband,4G,High
+College,Private,Female,14,Desktop,No,Urban,Poor,Broadband,4G,High
+College,Private,Female,29,Desktop,Yes,Rural,Average,Broadband,4G,Low
+College,Public,Female,12,Laptop,Yes,Urban,Average,Mobile Data,5G,Low
+College,Private,Female,21,Smartphone,No,Urban,Poor,Broadband,4G,Medium
+University,Public,Female,23,Tablet,No,Urban,Average,Fiber Optic,4G,Medium
+School,Public,Female,25,Tablet,No,Rural,Good,Fiber Optic,5G,Low
+University,Public,Male,22,Desktop,No,Rural,Poor,Broadband,5G,Low
+College,Public,Female,21,Smartphone,Yes,Urban,Average,Fiber Optic,4G,Medium
+School,Private,Male,17,Laptop,No,Urban,Good,Satellite,5G,Low
+College,Private,Male,15,Desktop,No,Rural,Poor,Mobile Data,5G,Medium
+School,Public,Female,27,Smartphone,No,Rural,Good,Broadband,4G,Medium
+University,Private,Male,19,Smartphone,Yes,Rural,Good,Broadband,4G,Medium
+School,Public,Female,24,Smartphone,Yes,Urban,Good,Mobile Data,4G,High
+School,Private,Male,22,Laptop,No,Urban,Average,Fiber Optic,4G,High
+School,Private,Female,16,Laptop,No,Urban,Poor,Mobile Data,5G,Low
+School,Public,Male,27,Tablet,No,Urban,Poor,Mobile Data,5G,Medium
+School,Private,Female,29,Tablet,No,Urban,Average,Fiber Optic,4G,High
+College,Public,Female,29,Smartphone,No,Rural,Poor,Mobile Data,4G,Low
+School,Private,Female,26,Smartphone,Yes,Urban,Good,Fiber Optic,5G,Low
+School,Public,Female,22,Laptop,Yes,Rural,Poor,Fiber Optic,4G,Low
+University,Public,Male,22,Tablet,Yes,Rural,Average,Mobile Data,4G,Low
+School,Private,Female,16,Smartphone,No,Urban,Good,Satellite,4G,Low
+University,Private,Male,14,Tablet,Yes,Rural,Average,Fiber Optic,4G,Medium
+College,Public,Male,16,Tablet,Yes,Urban,Good,Mobile Data,5G,Low
+School,Private,Male,21,Smartphone,Yes,Rural,Good,Fiber Optic,4G,Medium
+University,Private,Female,11,Laptop,No,Urban,Poor,Satellite,5G,High
+University,Public,Male,25,Smartphone,No,Urban,Good,Satellite,4G,Low
+College,Public,Male,21,Smartphone,Yes,Rural,Average,Broadband,4G,High
+School,Private,Male,29,Tablet,No,Urban,Poor,Fiber Optic,5G,Medium
+School,Public,Female,28,Smartphone,Yes,Rural,Average,Fiber Optic,4G,Medium
+University,Public,Female,27,Laptop,Yes,Urban,Good,Mobile Data,5G,High
+School,Public,Male,29,Smartphone,Yes,Urban,Average,Fiber Optic,4G,Low
+University,Private,Female,24,Laptop,Yes,Urban,Average,Broadband,4G,Low
+School,Private,Female,28,Laptop,No,Rural,Good,Satellite,4G,High
+University,Public,Male,29,Tablet,No,Rural,Poor,Satellite,4G,High
+School,Private,Male,25,Desktop,No,Urban,Average,Broadband,4G,High
+College,Public,Female,25,Desktop,No,Rural,Good,Fiber Optic,5G,Low
+School,Private,Male,14,Tablet,Yes,Urban,Poor,Fiber Optic,5G,Low
+School,Public,Female,17,Smartphone,No,Rural,Poor,Broadband,4G,Low
+College,Public,Female,23,Tablet,Yes,Rural,Poor,Mobile Data,4G,High
+School,Private,Female,13,Laptop,No,Urban,Average,Satellite,5G,Low
+College,Public,Female,26,Desktop,No,Urban,Average,Broadband,5G,Medium
+School,Private,Female,19,Tablet,No,Urban,Average,Broadband,4G,High
+University,Private,Female,18,Smartphone,Yes,Urban,Poor,Fiber Optic,4G,Low
+University,Public,Male,23,Tablet,Yes,Urban,Average,Satellite,5G,High
+School,Public,Male,27,Desktop,Yes,Rural,Good,Fiber Optic,4G,Medium
+School,Private,Female,27,Tablet,Yes,Rural,Average,Broadband,5G,Medium
+School,Public,Female,27,Tablet,No,Urban,Average,Mobile Data,4G,High
+University,Public,Female,11,Desktop,Yes,Urban,Poor,Satellite,5G,High
+School,Public,Male,18,Laptop,Yes,Urban,Average,Broadband,5G,Medium
+University,Public,Female,29,Laptop,No,Rural,Good,Broadband,4G,High
+College,Public,Male,16,Desktop,No,Urban,Poor,Mobile Data,5G,Medium
+University,Private,Female,13,Tablet,Yes,Urban,Good,Broadband,4G,Medium
+University,Private,Female,15,Desktop,No,Rural,Poor,Broadband,4G,Low
+College,Public,Male,23,Laptop,Yes,Rural,Poor,Satellite,4G,High
+University,Public,Male,25,Smartphone,No,Rural,Average,Satellite,4G,High
+School,Public,Female,24,Tablet,Yes,Rural,Good,Satellite,5G,Low
+School,Private,Female,26,Laptop,Yes,Urban,Poor,Fiber Optic,4G,Medium
+University,Public,Female,28,Tablet,Yes,Rural,Average,Mobile Data,4G,High
+School,Private,Male,21,Desktop,Yes,Rural,Poor,Satellite,4G,Low
+University,Private,Male,13,Smartphone,Yes,Urban,Poor,Fiber Optic,4G,Low
+School,Private,Male,20,Desktop,No,Urban,Poor,Fiber Optic,5G,High
+School,Public,Male,20,Smartphone,Yes,Urban,Poor,Mobile Data,4G,Low
+University,Private,Male,26,Tablet,Yes,Rural,Poor,Mobile Data,5G,Medium
+School,Public,Male,22,Tablet,Yes,Urban,Poor,Broadband,5G,Low
+University,Private,Female,12,Desktop,Yes,Rural,Average,Fiber Optic,5G,Medium
+School,Public,Female,19,Smartphone,Yes,Rural,Poor,Satellite,4G,Medium
+School,Private,Male,13,Smartphone,No,Rural,Good,Mobile Data,4G,High
+College,Public,Female,25,Tablet,No,Urban,Average,Fiber Optic,4G,Low
+College,Private,Female,13,Desktop,Yes,Rural,Good,Satellite,4G,Medium
+University,Public,Male,29,Smartphone,No,Urban,Poor,Fiber Optic,5G,Medium
+College,Public,Female,28,Tablet,Yes,Urban,Good,Mobile Data,5G,Low
+University,Public,Male,18,Laptop,No,Urban,Poor,Broadband,4G,Medium
+College,Public,Male,27,Desktop,No,Rural,Poor,Fiber Optic,4G,Low
+School,Private,Female,18,Laptop,Yes,Rural,Average,Satellite,4G,High
+University,Private,Male,17,Desktop,No,Rural,Average,Mobile Data,4G,Medium
+University,Public,Male,17,Tablet,No,Urban,Poor,Broadband,4G,Medium
+School,Private,Male,13,Smartphone,Yes,Rural,Average,Satellite,4G,Low
+University,Public,Male,11,Smartphone,Yes,Rural,Good,Satellite,4G,Low
+University,Public,Male,14,Smartphone,No,Rural,Average,Satellite,5G,Low
+College,Private,Male,15,Desktop,No,Rural,Average,Fiber Optic,5G,Low
+University,Public,Male,11,Tablet,No,Rural,Good,Mobile Data,5G,Medium
+School,Public,Male,25,Laptop,Yes,Urban,Average,Satellite,5G,High
+College,Private,Female,15,Tablet,No,Urban,Poor,Fiber Optic,4G,High
+College,Public,Female,23,Laptop,No,Urban,Good,Mobile Data,4G,High
+School,Public,Female,18,Desktop,No,Urban,Poor,Mobile Data,4G,High
+School,Public,Male,18,Desktop,Yes,Rural,Good,Fiber Optic,4G,Low
+College,Public,Male,15,Laptop,Yes,Urban,Poor,Fiber Optic,4G,Medium
+University,Private,Female,19,Laptop,Yes,Rural,Poor,Satellite,5G,Medium
+College,Private,Female,11,Laptop,Yes,Urban,Average,Mobile Data,4G,Medium
+School,Private,Female,14,Tablet,No,Urban,Poor,Broadband,5G,Low
+College,Public,Male,13,Laptop,Yes,Urban,Average,Fiber Optic,4G,Medium
+School,Public,Female,12,Desktop,No,Rural,Good,Mobile Data,5G,Low
+College,Private,Female,18,Desktop,No,Rural,Poor,Mobile Data,4G,Medium
+University,Public,Male,19,Smartphone,No,Urban,Poor,Satellite,5G,High
+College,Public,Female,12,Laptop,No,Rural,Good,Broadband,4G,Low
+College,Public,Male,24,Tablet,Yes,Urban,Good,Satellite,4G,Medium
+School,Public,Male,24,Tablet,Yes,Urban,Poor,Broadband,4G,High
+School,Private,Male,14,Tablet,Yes,Urban,Good,Broadband,4G,High
+School,Private,Female,16,Smartphone,Yes,Rural,Average,Fiber Optic,5G,High
+College,Private,Female,21,Desktop,Yes,Urban,Good,Mobile Data,4G,Low
+University,Public,Male,13,Tablet,No,Urban,Good,Mobile Data,5G,Low
+School,Private,Female,18,Desktop,Yes,Urban,Poor,Mobile Data,4G,Medium
+School,Private,Female,13,Smartphone,Yes,Rural,Average,Broadband,5G,High
+College,Public,Female,24,Laptop,Yes,Urban,Good,Mobile Data,4G,Medium
+School,Public,Female,23,Laptop,Yes,Rural,Average,Fiber Optic,4G,Medium
+University,Private,Male,23,Laptop,No,Urban,Average,Broadband,5G,High
+University,Private,Female,12,Tablet,No,Rural,Average,Broadband,4G,Medium
+School,Private,Male,23,Laptop,No,Urban,Poor,Broadband,4G,Low
+School,Private,Male,29,Tablet,No,Urban,Good,Broadband,5G,Medium
+College,Public,Female,16,Smartphone,No,Rural,Poor,Fiber Optic,4G,High
+University,Private,Male,26,Smartphone,Yes,Rural,Good,Mobile Data,5G,Low
+University,Private,Female,12,Tablet,No,Urban,Good,Fiber Optic,4G,Low
+School,Public,Female,18,Desktop,No,Rural,Poor,Mobile Data,5G,Medium
+College,Private,Male,27,Laptop,No,Urban,Average,Fiber Optic,5G,Medium
+University,Public,Male,12,Laptop,Yes,Urban,Average,Satellite,5G,Low
+University,Public,Male,20,Laptop,Yes,Urban,Good,Satellite,5G,Medium
+College,Public,Male,26,Tablet,No,Rural,Poor,Satellite,4G,High
+College,Private,Female,16,Smartphone,Yes,Urban,Average,Satellite,4G,Medium
+University,Private,Female,12,Laptop,Yes,Rural,Average,Broadband,5G,Medium
+University,Public,Female,12,Smartphone,No,Urban,Good,Broadband,4G,Low
+College,Private,Male,23,Laptop,Yes,Rural,Good,Fiber Optic,4G,Medium
+University,Private,Male,25,Laptop,Yes,Rural,Poor,Fiber Optic,4G,Medium
+School,Public,Male,12,Tablet,Yes,Urban,Good,Satellite,5G,Medium
+School,Public,Female,17,Desktop,No,Rural,Average,Mobile Data,4G,High
+College,Private,Male,13,Tablet,No,Urban,Average,Satellite,4G,Medium
+College,Public,Female,18,Laptop,No,Urban,Average,Fiber Optic,5G,High
+College,Private,Male,24,Laptop,Yes,Urban,Average,Satellite,4G,High
+School,Private,Female,17,Desktop,No,Urban,Poor,Fiber Optic,5G,High
+University,Private,Female,17,Smartphone,Yes,Urban,Poor,Satellite,5G,High
+School,Private,Male,11,Smartphone,Yes,Rural,Good,Mobile Data,5G,Low
+University,Public,Male,27,Laptop,Yes,Urban,Good,Satellite,4G,High
+School,Public,Female,19,Smartphone,No,Rural,Good,Mobile Data,4G,Medium
+University,Public,Female,23,Laptop,No,Rural,Poor,Mobile Data,5G,High
+School,Public,Male,29,Desktop,No,Urban,Average,Fiber Optic,5G,Medium
+College,Private,Male,29,Desktop,No,Rural,Good,Mobile Data,5G,High
+School,Private,Female,27,Laptop,Yes,Urban,Average,Broadband,5G,Low
+University,Public,Male,20,Desktop,No,Rural,Good,Broadband,5G,High
+School,Private,Female,20,Tablet,Yes,Rural,Good,Broadband,5G,High
+School,Private,Female,14,Tablet,No,Rural,Good,Fiber Optic,4G,Low
+School,Private,Male,18,Desktop,No,Urban,Good,Broadband,5G,High
+College,Public,Male,28,Laptop,No,Rural,Good,Fiber Optic,5G,Medium
+School,Public,Male,24,Laptop,Yes,Urban,Average,Fiber Optic,5G,High
+College,Public,Male,28,Desktop,Yes,Rural,Good,Broadband,4G,High
+College,Private,Male,24,Smartphone,Yes,Rural,Average,Mobile Data,4G,High
+School,Public,Female,25,Tablet,Yes,Rural,Poor,Satellite,4G,Low
+School,Public,Female,14,Smartphone,Yes,Rural,Good,Fiber Optic,4G,High
+School,Public,Male,23,Laptop,No,Urban,Average,Broadband,5G,High
+University,Public,Male,18,Laptop,Yes,Urban,Poor,Fiber Optic,4G,Medium
+School,Public,Male,28,Smartphone,Yes,Rural,Poor,Mobile Data,5G,High
+College,Public,Female,22,Desktop,Yes,Rural,Poor,Mobile Data,5G,High
+School,Private,Male,24,Smartphone,Yes,Urban,Average,Broadband,5G,High
+University,Private,Male,12,Smartphone,No,Urban,Good,Fiber Optic,5G,High
+School,Public,Female,28,Tablet,Yes,Urban,Good,Satellite,5G,Medium
+University,Public,Female,12,Tablet,No,Urban,Average,Satellite,5G,Medium
+University,Private,Male,21,Smartphone,No,Rural,Good,Fiber Optic,4G,Low
+School,Private,Male,19,Smartphone,No,Rural,Average,Fiber Optic,4G,High
+College,Public,Male,22,Laptop,Yes,Urban,Good,Fiber Optic,4G,Low
+University,Public,Female,27,Tablet,No,Urban,Poor,Broadband,4G,Low
+School,Public,Male,25,Tablet,Yes,Urban,Good,Mobile Data,4G,High
+School,Public,Male,27,Laptop,Yes,Urban,Average,Satellite,5G,Medium
+College,Private,Male,28,Desktop,Yes,Urban,Average,Broadband,4G,Medium
+University,Public,Female,16,Tablet,Yes,Urban,Poor,Fiber Optic,4G,High
+University,Public,Female,27,Tablet,Yes,Rural,Average,Fiber Optic,4G,High
+School,Public,Male,28,Desktop,No,Rural,Good,Mobile Data,5G,Medium
+School,Public,Male,18,Tablet,No,Rural,Good,Fiber Optic,5G,High
+College,Private,Female,19,Tablet,Yes,Urban,Poor,Broadband,5G,High
+College,Private,Female,16,Desktop,No,Urban,Average,Broadband,4G,High
+University,Private,Female,15,Desktop,Yes,Urban,Poor,Mobile Data,4G,Medium
+University,Public,Female,22,Smartphone,No,Rural,Good,Broadband,4G,Low
+School,Public,Female,21,Laptop,No,Urban,Poor,Satellite,4G,Low
+University,Private,Female,11,Laptop,No,Urban,Average,Broadband,4G,High
+College,Public,Female,21,Desktop,No,Rural,Poor,Broadband,5G,Medium
+College,Public,Female,29,Desktop,No,Urban,Average,Broadband,4G,High
+School,Private,Female,19,Tablet,Yes,Rural,Average,Satellite,5G,Medium
+College,Private,Male,12,Smartphone,Yes,Rural,Good,Fiber Optic,4G,High
+College,Private,Male,22,Smartphone,No,Urban,Good,Broadband,5G,Medium
+College,Private,Male,14,Desktop,Yes,Rural,Good,Mobile Data,5G,Medium
+College,Public,Female,14,Tablet,No,Urban,Average,Satellite,5G,Low
+School,Public,Male,28,Tablet,Yes,Rural,Poor,Mobile Data,5G,High
+School,Private,Female,25,Laptop,No,Urban,Average,Broadband,4G,Low
+University,Public,Female,29,Laptop,No,Rural,Good,Mobile Data,4G,Low
+College,Private,Male,23,Tablet,No,Urban,Good,Broadband,4G,Medium
+University,Private,Female,29,Laptop,Yes,Rural,Poor,Satellite,5G,High
+School,Public,Male,27,Desktop,Yes,Rural,Good,Mobile Data,4G,Medium
+School,Private,Male,16,Tablet,No,Rural,Good,Mobile Data,4G,Medium
+School,Public,Male,26,Laptop,No,Urban,Good,Broadband,4G,Medium
+School,Public,Female,22,Smartphone,Yes,Urban,Poor,Broadband,4G,High
+School,Public,Male,29,Tablet,Yes,Rural,Average,Fiber Optic,5G,High
+School,Public,Female,15,Tablet,Yes,Urban,Good,Broadband,5G,Medium
+School,Private,Male,27,Smartphone,Yes,Rural,Poor,Broadband,4G,High
+College,Public,Male,11,Desktop,Yes,Urban,Good,Fiber Optic,4G,Medium
+University,Private,Male,20,Smartphone,No,Rural,Poor,Broadband,4G,High
+School,Private,Female,25,Tablet,Yes,Urban,Good,Broadband,5G,High
+College,Private,Female,21,Desktop,No,Rural,Poor,Fiber Optic,5G,Low
+College,Private,Female,23,Laptop,No,Rural,Good,Satellite,5G,Medium
+University,Public,Male,15,Laptop,Yes,Rural,Average,Satellite,4G,Low
+School,Public,Male,11,Laptop,Yes,Rural,Good,Broadband,5G,Low
+University,Private,Female,22,Tablet,No,Urban,Poor,Broadband,5G,Medium
+School,Private,Female,21,Smartphone,Yes,Rural,Good,Fiber Optic,5G,Medium
+College,Public,Female,27,Desktop,No,Urban,Average,Fiber Optic,5G,High
+College,Private,Female,14,Laptop,Yes,Urban,Good,Satellite,5G,Medium
+College,Public,Female,25,Desktop,Yes,Rural,Poor,Mobile Data,4G,Low
+College,Private,Female,19,Tablet,Yes,Urban,Poor,Broadband,4G,Low
+University,Public,Male,29,Laptop,No,Urban,Average,Mobile Data,4G,Medium
+School,Private,Female,29,Tablet,Yes,Urban,Poor,Mobile Data,4G,Low
+School,Private,Male,22,Smartphone,No,Rural,Good,Fiber Optic,5G,High
+University,Public,Male,15,Tablet,Yes,Urban,Good,Broadband,4G,Low
+School,Private,Female,20,Tablet,No,Urban,Good,Broadband,4G,High
+College,Private,Female,27,Smartphone,Yes,Rural,Poor,Fiber Optic,4G,Low
+School,Public,Male,15,Desktop,No,Rural,Good,Mobile Data,5G,High
+College,Private,Female,26,Smartphone,No,Urban,Good,Fiber Optic,4G,High
+University,Public,Female,17,Smartphone,No,Rural,Good,Satellite,5G,Medium
+School,Public,Male,19,Tablet,No,Urban,Average,Broadband,5G,High
+University,Private,Male,13,Desktop,No,Urban,Poor,Satellite,5G,Medium
+School,Private,Male,25,Laptop,No,Urban,Poor,Fiber Optic,4G,Low
+College,Private,Female,26,Smartphone,Yes,Rural,Poor,Broadband,5G,Low
+University,Private,Male,28,Desktop,No,Urban,Average,Satellite,4G,Low
+School,Private,Female,24,Smartphone,No,Rural,Poor,Satellite,4G,High
+College,Private,Male,13,Smartphone,No,Rural,Average,Mobile Data,4G,Low
+University,Private,Male,22,Smartphone,Yes,Urban,Average,Broadband,5G,Low
+University,Public,Male,19,Smartphone,Yes,Rural,Poor,Satellite,5G,Medium
+School,Private,Female,17,Tablet,Yes,Rural,Good,Satellite,4G,Medium
+School,Public,Female,19,Desktop,No,Rural,Good,Mobile Data,5G,Low
+School,Private,Male,23,Desktop,Yes,Rural,Poor,Satellite,5G,Low
+College,Private,Male,28,Desktop,Yes,Rural,Poor,Satellite,5G,High
+School,Public,Male,15,Smartphone,No,Urban,Average,Satellite,4G,High
+University,Private,Female,23,Tablet,No,Rural,Poor,Mobile Data,5G,Low
+University,Private,Male,14,Smartphone,Yes,Urban,Average,Satellite,5G,Medium
+School,Public,Female,12,Smartphone,No,Urban,Poor,Satellite,4G,Low
+School,Private,Male,26,Desktop,No,Urban,Good,Broadband,5G,High
+University,Private,Male,19,Smartphone,No,Urban,Good,Broadband,4G,Medium
+College,Private,Male,19,Laptop,No,Urban,Poor,Mobile Data,5G,Medium
+School,Public,Male,16,Smartphone,Yes,Urban,Average,Fiber Optic,5G,High
+School,Private,Male,21,Laptop,No,Rural,Good,Broadband,5G,Low
+University,Private,Male,11,Smartphone,Yes,Rural,Average,Mobile Data,5G,Low
+School,Private,Female,14,Tablet,Yes,Rural,Poor,Satellite,5G,Low
+College,Private,Male,23,Tablet,Yes,Urban,Poor,Satellite,5G,High
+University,Public,Female,23,Desktop,Yes,Rural,Good,Mobile Data,4G,Medium
+School,Public,Male,23,Smartphone,No,Rural,Poor,Satellite,5G,High
+University,Private,Male,12,Laptop,No,Rural,Good,Satellite,5G,Low
+School,Private,Female,19,Laptop,No,Urban,Average,Fiber Optic,5G,High
+School,Public,Male,18,Smartphone,Yes,Rural,Good,Satellite,4G,Medium
+School,Public,Female,17,Laptop,Yes,Urban,Good,Broadband,4G,High
+College,Private,Female,14,Tablet,Yes,Rural,Average,Satellite,4G,Low
+College,Public,Male,28,Laptop,No,Urban,Good,Mobile Data,5G,Medium
+University,Private,Female,13,Desktop,Yes,Urban,Good,Fiber Optic,5G,High
+School,Public,Female,16,Tablet,No,Urban,Poor,Satellite,4G,High
+School,Public,Male,22,Tablet,No,Rural,Average,Mobile Data,4G,Medium
+College,Public,Female,22,Tablet,No,Rural,Good,Broadband,4G,Medium
+School,Public,Male,18,Smartphone,No,Urban,Average,Satellite,5G,Low
+College,Private,Male,11,Smartphone,Yes,Rural,Average,Fiber Optic,4G,Medium
+School,Public,Male,14,Tablet,No,Urban,Good,Satellite,5G,Low
+University,Public,Male,21,Smartphone,Yes,Urban,Poor,Mobile Data,5G,High
+School,Private,Female,13,Laptop,No,Rural,Average,Fiber Optic,5G,Low
+School,Public,Male,23,Smartphone,Yes,Rural,Good,Satellite,4G,High
+College,Public,Male,27,Smartphone,Yes,Rural,Average,Broadband,5G,Medium
+School,Private,Female,20,Tablet,No,Urban,Poor,Fiber Optic,4G,High
+School,Public,Male,22,Desktop,No,Urban,Poor,Broadband,4G,Medium
+College,Private,Male,25,Desktop,No,Rural,Poor,Mobile Data,4G,High
+University,Private,Female,20,Desktop,Yes,Urban,Good,Satellite,4G,High
+University,Private,Female,24,Laptop,No,Rural,Good,Broadband,5G,High
+College,Private,Female,23,Smartphone,No,Urban,Poor,Mobile Data,5G,High
+College,Public,Female,15,Desktop,Yes,Rural,Good,Satellite,5G,Low
+College,Private,Female,16,Tablet,No,Rural,Poor,Mobile Data,5G,High
+College,Public,Female,12,Desktop,Yes,Urban,Good,Broadband,4G,Low
+College,Public,Female,27,Desktop,No,Rural,Poor,Mobile Data,4G,Medium
+University,Public,Male,14,Smartphone,Yes,Rural,Average,Fiber Optic,4G,Medium
+University,Public,Female,24,Smartphone,Yes,Urban,Poor,Satellite,4G,Low
+College,Public,Female,20,Smartphone,No,Rural,Poor,Mobile Data,5G,Medium
+School,Public,Female,13,Laptop,Yes,Urban,Good,Broadband,4G,Medium
+College,Public,Male,13,Laptop,No,Rural,Good,Satellite,5G,High
+School,Public,Male,25,Desktop,No,Urban,Good,Fiber Optic,4G,High
+College,Public,Female,16,Smartphone,Yes,Rural,Good,Satellite,4G,High
+College,Public,Female,27,Desktop,No,Rural,Good,Fiber Optic,4G,Low
+University,Private,Female,22,Tablet,Yes,Rural,Good,Satellite,4G,Low
+School,Private,Male,21,Tablet,Yes,Rural,Average,Mobile Data,5G,Medium
+School,Private,Male,14,Smartphone,Yes,Urban,Poor,Mobile Data,5G,High
+University,Public,Female,16,Smartphone,Yes,Urban,Poor,Broadband,5G,Low
+University,Private,Male,11,Tablet,Yes,Urban,Poor,Fiber Optic,5G,Low
+University,Private,Female,26,Smartphone,Yes,Urban,Average,Broadband,4G,High
+University,Private,Male,25,Laptop,Yes,Urban,Poor,Mobile Data,4G,Low
+School,Public,Male,27,Laptop,Yes,Urban,Average,Fiber Optic,5G,High
+School,Public,Female,18,Smartphone,No,Urban,Average,Broadband,5G,Medium
+College,Public,Female,22,Tablet,No,Rural,Average,Broadband,4G,Medium
+College,Public,Female,20,Desktop,Yes,Rural,Poor,Broadband,4G,Medium
+University,Private,Female,25,Smartphone,No,Rural,Average,Broadband,5G,High
+University,Private,Male,19,Smartphone,No,Rural,Poor,Broadband,5G,Low
+University,Private,Male,12,Desktop,No,Urban,Poor,Fiber Optic,5G,Medium
+College,Private,Male,15,Smartphone,No,Urban,Good,Broadband,4G,Medium
+College,Public,Female,16,Desktop,No,Urban,Good,Fiber Optic,5G,Medium
+College,Public,Male,17,Tablet,No,Rural,Average,Broadband,5G,Low
+College,Public,Female,11,Laptop,Yes,Urban,Average,Mobile Data,5G,Low
+College,Private,Male,17,Tablet,No,Rural,Poor,Mobile Data,5G,High
+College,Public,Female,22,Laptop,No,Urban,Average,Broadband,5G,Medium
+College,Public,Female,26,Desktop,No,Urban,Average,Satellite,4G,Low
+University,Private,Male,26,Laptop,No,Urban,Poor,Mobile Data,5G,High
+University,Private,Female,21,Tablet,Yes,Urban,Average,Fiber Optic,4G,Medium
+University,Public,Female,14,Laptop,Yes,Rural,Average,Broadband,5G,Low
+University,Public,Male,23,Desktop,Yes,Rural,Poor,Fiber Optic,5G,Low
+College,Public,Female,17,Laptop,Yes,Urban,Poor,Satellite,5G,High
+School,Public,Female,14,Smartphone,No,Rural,Good,Broadband,4G,Medium
+College,Public,Female,25,Tablet,Yes,Urban,Poor,Mobile Data,4G,Medium
+School,Public,Male,29,Smartphone,Yes,Urban,Good,Fiber Optic,4G,Low
+University,Private,Male,19,Desktop,Yes,Urban,Average,Mobile Data,5G,Medium
+College,Private,Female,21,Laptop,Yes,Urban,Poor,Mobile Data,5G,High
+University,Private,Male,18,Smartphone,No,Rural,Poor,Broadband,4G,Low
+College,Public,Female,11,Smartphone,Yes,Urban,Poor,Fiber Optic,4G,Low
+University,Private,Female,18,Laptop,No,Urban,Average,Satellite,5G,High
+School,Public,Female,23,Laptop,Yes,Rural,Good,Mobile Data,4G,Low
+School,Public,Female,14,Tablet,No,Urban,Average,Broadband,5G,Medium
+School,Private,Female,18,Smartphone,No,Rural,Average,Broadband,4G,Medium
+College,Public,Male,13,Smartphone,Yes,Urban,Poor,Satellite,4G,Low
+School,Public,Female,19,Desktop,Yes,Urban,Good,Broadband,4G,High
+College,Private,Male,12,Tablet,Yes,Urban,Average,Mobile Data,5G,High
+School,Private,Male,12,Desktop,Yes,Urban,Poor,Broadband,5G,Medium
+School,Private,Female,23,Smartphone,No,Urban,Average,Fiber Optic,4G,High
+College,Public,Female,25,Desktop,No,Urban,Average,Fiber Optic,5G,Low
+College,Private,Male,22,Smartphone,Yes,Rural,Poor,Mobile Data,5G,Low
+School,Private,Male,14,Smartphone,Yes,Urban,Poor,Fiber Optic,5G,Medium
+College,Public,Male,18,Desktop,No,Rural,Good,Satellite,5G,Medium
+School,Private,Female,19,Desktop,Yes,Rural,Average,Broadband,4G,Medium
+College,Private,Male,15,Laptop,No,Urban,Poor,Mobile Data,5G,High
+University,Private,Female,28,Laptop,Yes,Rural,Poor,Satellite,5G,Low
+University,Public,Female,21,Laptop,No,Urban,Good,Broadband,4G,Low
+University,Public,Female,25,Smartphone,No,Rural,Good,Satellite,5G,Low
+University,Public,Male,19,Desktop,No,Urban,Poor,Mobile Data,5G,Medium
+University,Public,Female,27,Tablet,No,Rural,Good,Mobile Data,5G,Low
+School,Private,Female,22,Smartphone,No,Rural,Poor,Satellite,4G,High
+University,Public,Female,17,Tablet,Yes,Urban,Average,Broadband,4G,High
+University,Public,Female,20,Desktop,No,Rural,Good,Fiber Optic,5G,Low
+University,Private,Female,20,Smartphone,Yes,Urban,Average,Fiber Optic,5G,Medium
+University,Private,Male,23,Tablet,No,Urban,Average,Satellite,4G,Low
+College,Private,Female,29,Tablet,No,Urban,Average,Mobile Data,4G,High
+School,Public,Female,21,Laptop,Yes,Urban,Poor,Broadband,4G,High
+University,Public,Male,23,Laptop,Yes,Urban,Average,Broadband,5G,High
+University,Public,Female,18,Laptop,Yes,Rural,Average,Mobile Data,5G,Low
+University,Private,Male,18,Smartphone,Yes,Rural,Average,Fiber Optic,4G,High
+School,Private,Female,14,Desktop,No,Rural,Poor,Broadband,5G,Medium
+College,Public,Male,25,Desktop,Yes,Urban,Average,Satellite,5G,Low
+School,Private,Male,21,Laptop,No,Rural,Average,Fiber Optic,5G,Low
+College,Private,Female,21,Laptop,Yes,Rural,Good,Satellite,5G,High
+University,Private,Female,11,Laptop,Yes,Rural,Poor,Fiber Optic,5G,High
+University,Public,Female,27,Tablet,No,Rural,Average,Mobile Data,5G,Medium
+School,Private,Male,25,Laptop,No,Rural,Good,Satellite,5G,Low
+School,Private,Male,16,Tablet,Yes,Urban,Poor,Satellite,4G,High
+College,Public,Male,25,Desktop,No,Urban,Poor,Mobile Data,4G,Medium
+College,Public,Female,19,Smartphone,No,Rural,Poor,Satellite,4G,High
+School,Private,Male,24,Smartphone,No,Urban,Poor,Fiber Optic,4G,Low
+College,Private,Male,28,Smartphone,No,Urban,Poor,Broadband,4G,High
+School,Public,Female,27,Smartphone,No,Rural,Poor,Broadband,4G,Low
+College,Public,Male,28,Tablet,No,Rural,Average,Mobile Data,4G,High
+School,Private,Male,15,Tablet,No,Urban,Average,Fiber Optic,4G,Low
+School,Private,Female,19,Laptop,No,Rural,Average,Satellite,4G,Medium
+School,Private,Male,21,Tablet,Yes,Urban,Average,Satellite,5G,Low
+College,Private,Female,11,Laptop,No,Urban,Good,Broadband,5G,Medium
+College,Public,Female,28,Laptop,Yes,Rural,Average,Satellite,4G,Low
+College,Private,Female,16,Smartphone,No,Urban,Poor,Broadband,5G,Medium
+School,Private,Female,12,Tablet,No,Urban,Average,Mobile Data,5G,High
+College,Public,Female,25,Tablet,No,Urban,Average,Satellite,4G,Low
+College,Private,Male,24,Laptop,No,Rural,Poor,Fiber Optic,4G,High
+School,Public,Male,15,Laptop,Yes,Rural,Average,Satellite,4G,Medium
+University,Private,Female,16,Desktop,Yes,Rural,Average,Broadband,5G,Low
+School,Private,Female,16,Desktop,No,Rural,Average,Mobile Data,5G,Low
+College,Public,Male,28,Laptop,Yes,Urban,Good,Broadband,4G,High
+School,Public,Female,24,Desktop,No,Rural,Average,Satellite,5G,Low
+University,Private,Female,20,Desktop,No,Rural,Poor,Broadband,5G,Low
+School,Private,Female,24,Laptop,Yes,Rural,Poor,Broadband,5G,High
+College,Private,Male,23,Laptop,Yes,Rural,Average,Mobile Data,4G,Low
+University,Public,Male,13,Tablet,No,Urban,Average,Fiber Optic,5G,High
+College,Private,Female,16,Laptop,No,Urban,Average,Satellite,5G,High
+University,Public,Female,18,Laptop,Yes,Urban,Poor,Mobile Data,5G,High
+University,Public,Male,22,Smartphone,No,Rural,Poor,Fiber Optic,5G,High
+School,Private,Male,23,Tablet,Yes,Rural,Good,Broadband,5G,High
+School,Public,Female,21,Tablet,No,Urban,Good,Fiber Optic,5G,Medium
+College,Private,Female,22,Tablet,No,Rural,Good,Broadband,5G,Medium
+School,Private,Male,11,Smartphone,Yes,Rural,Poor,Broadband,4G,High
+School,Private,Male,27,Laptop,Yes,Urban,Good,Mobile Data,4G,Medium
+University,Private,Male,26,Tablet,Yes,Urban,Average,Broadband,5G,Medium
+School,Private,Female,21,Tablet,No,Rural,Average,Mobile Data,4G,Low
+University,Public,Male,23,Desktop,No,Rural,Poor,Fiber Optic,5G,High
+University,Public,Female,28,Tablet,No,Rural,Good,Fiber Optic,5G,Medium
+University,Private,Male,21,Laptop,No,Urban,Average,Broadband,5G,Low
+College,Private,Male,22,Laptop,Yes,Urban,Poor,Mobile Data,4G,Low
+College,Public,Male,16,Desktop,No,Urban,Good,Broadband,5G,High
+College,Public,Male,19,Tablet,No,Urban,Average,Mobile Data,5G,High
+University,Public,Female,26,Tablet,No,Rural,Good,Mobile Data,4G,Low
+College,Public,Female,14,Tablet,Yes,Urban,Poor,Mobile Data,4G,High
+College,Private,Male,13,Smartphone,No,Urban,Good,Fiber Optic,5G,High
+School,Private,Female,26,Tablet,No,Rural,Poor,Mobile Data,4G,Low
+College,Public,Male,22,Laptop,Yes,Rural,Good,Fiber Optic,4G,Low
+College,Private,Male,21,Laptop,No,Rural,Average,Mobile Data,5G,High
+University,Public,Male,15,Smartphone,No,Urban,Poor,Fiber Optic,5G,Medium
+University,Private,Male,28,Smartphone,Yes,Rural,Poor,Satellite,5G,High
+University,Public,Female,29,Tablet,No,Rural,Poor,Fiber Optic,4G,Medium
+University,Private,Male,16,Desktop,No,Urban,Good,Fiber Optic,4G,Low
+University,Public,Male,28,Smartphone,No,Urban,Good,Broadband,4G,Medium
+University,Public,Female,16,Smartphone,Yes,Rural,Average,Mobile Data,5G,Low
+College,Private,Male,14,Tablet,No,Urban,Poor,Satellite,4G,High
+University,Public,Male,22,Tablet,No,Rural,Poor,Broadband,4G,High
+University,Private,Male,29,Smartphone,Yes,Rural,Good,Mobile Data,5G,Low
+School,Private,Female,12,Desktop,Yes,Urban,Good,Satellite,5G,Low
+College,Public,Male,27,Smartphone,No,Rural,Average,Satellite,5G,Low
+College,Private,Female,21,Tablet,No,Urban,Average,Satellite,4G,High
+College,Private,Male,21,Tablet,No,Urban,Good,Mobile Data,5G,High
+University,Private,Male,26,Smartphone,No,Urban,Poor,Satellite,4G,Medium
+University,Private,Female,12,Desktop,Yes,Rural,Average,Satellite,4G,Low
+University,Private,Male,12,Smartphone,No,Urban,Good,Broadband,5G,Medium
+School,Public,Male,18,Smartphone,Yes,Urban,Good,Fiber Optic,5G,High
+University,Private,Female,23,Tablet,Yes,Rural,Poor,Mobile Data,5G,Medium
+School,Private,Female,20,Desktop,No,Rural,Good,Fiber Optic,5G,Medium
+College,Private,Female,18,Laptop,No,Rural,Good,Broadband,5G,High
+University,Private,Female,14,Desktop,Yes,Rural,Average,Fiber Optic,4G,High
+School,Private,Female,25,Smartphone,Yes,Urban,Good,Satellite,4G,Low
+School,Public,Male,11,Smartphone,No,Urban,Good,Satellite,4G,Medium
+University,Private,Female,21,Smartphone,Yes,Urban,Average,Mobile Data,5G,High
+College,Public,Male,17,Desktop,No,Rural,Poor,Mobile Data,4G,High
+College,Public,Male,27,Tablet,No,Rural,Poor,Mobile Data,5G,Medium
+College,Public,Male,28,Smartphone,Yes,Urban,Average,Broadband,5G,High
+School,Public,Female,22,Smartphone,Yes,Rural,Average,Mobile Data,4G,Low
+School,Private,Female,19,Desktop,No,Rural,Poor,Broadband,4G,Low
+School,Public,Male,15,Laptop,Yes,Urban,Poor,Satellite,5G,Medium
+School,Public,Female,20,Laptop,No,Urban,Poor,Fiber Optic,4G,Low
+College,Private,Female,14,Tablet,No,Rural,Poor,Satellite,5G,High
+University,Private,Female,15,Tablet,No,Rural,Poor,Satellite,4G,High
+School,Private,Female,20,Smartphone,Yes,Rural,Average,Satellite,4G,High
+School,Public,Male,21,Desktop,No,Urban,Good,Mobile Data,4G,High
+College,Private,Male,20,Smartphone,No,Urban,Poor,Mobile Data,4G,Medium
+University,Private,Female,18,Tablet,No,Urban,Poor,Mobile Data,4G,Low
+University,Public,Male,12,Desktop,No,Urban,Good,Fiber Optic,5G,Low
+College,Private,Female,18,Desktop,No,Urban,Good,Mobile Data,4G,High
+College,Private,Female,26,Tablet,No,Rural,Good,Broadband,4G,Medium
+University,Private,Male,15,Laptop,No,Rural,Good,Satellite,4G,High
+School,Private,Male,13,Laptop,No,Rural,Good,Fiber Optic,5G,High
+University,Public,Male,22,Desktop,No,Urban,Good,Fiber Optic,5G,Medium
+College,Private,Female,23,Smartphone,No,Urban,Average,Fiber Optic,5G,Medium
+School,Private,Male,23,Laptop,No,Urban,Good,Fiber Optic,5G,High
+School,Public,Female,20,Smartphone,Yes,Rural,Good,Fiber Optic,5G,Low
+College,Private,Male,14,Laptop,No,Urban,Average,Broadband,4G,High
+College,Public,Male,19,Laptop,No,Urban,Good,Satellite,4G,Low
+College,Private,Female,12,Smartphone,No,Rural,Poor,Fiber Optic,4G,Low
+University,Public,Female,29,Tablet,Yes,Urban,Poor,Satellite,5G,Medium
+University,Public,Female,11,Laptop,No,Rural,Good,Mobile Data,5G,Medium
+School,Public,Female,17,Laptop,Yes,Urban,Average,Fiber Optic,4G,High
+College,Public,Female,27,Smartphone,No,Urban,Poor,Fiber Optic,5G,Low
+School,Private,Female,13,Tablet,No,Rural,Average,Satellite,5G,Low
+School,Public,Female,13,Laptop,Yes,Rural,Poor,Fiber Optic,5G,High
+School,Private,Female,13,Laptop,No,Rural,Good,Fiber Optic,4G,High
+School,Public,Male,27,Tablet,Yes,Rural,Average,Fiber Optic,4G,High
+College,Public,Female,17,Laptop,Yes,Rural,Average,Broadband,5G,Medium
+School,Public,Female,24,Tablet,No,Rural,Average,Broadband,5G,High
+College,Private,Male,27,Tablet,No,Urban,Poor,Fiber Optic,5G,High
+College,Public,Female,28,Smartphone,No,Urban,Poor,Broadband,5G,Low
+University,Private,Male,23,Desktop,No,Rural,Poor,Mobile Data,4G,High
+College,Private,Male,28,Tablet,Yes,Urban,Good,Fiber Optic,5G,Low
+University,Private,Female,14,Smartphone,Yes,Rural,Poor,Mobile Data,4G,Low
+College,Private,Male,11,Desktop,No,Urban,Good,Satellite,4G,Medium
+College,Private,Female,28,Laptop,Yes,Rural,Average,Mobile Data,4G,High
+College,Private,Male,11,Desktop,Yes,Urban,Average,Satellite,5G,High
+University,Private,Male,23,Tablet,No,Urban,Good,Fiber Optic,4G,Low
+University,Private,Male,20,Tablet,Yes,Urban,Poor,Satellite,4G,Medium
+School,Private,Female,21,Tablet,Yes,Urban,Good,Satellite,5G,Medium
+University,Public,Female,19,Tablet,No,Urban,Average,Mobile Data,5G,High
+University,Public,Male,19,Tablet,Yes,Rural,Average,Mobile Data,5G,Low
+University,Public,Male,15,Smartphone,No,Rural,Good,Mobile Data,4G,High
+University,Public,Female,11,Tablet,Yes,Rural,Poor,Fiber Optic,5G,High
+School,Public,Female,27,Smartphone,No,Urban,Poor,Fiber Optic,4G,High
+University,Private,Male,12,Laptop,Yes,Rural,Good,Mobile Data,4G,High
+College,Private,Male,23,Tablet,Yes,Urban,Good,Fiber Optic,5G,Low
+College,Private,Female,19,Tablet,No,Urban,Poor,Fiber Optic,4G,Medium
+University,Private,Female,14,Desktop,No,Urban,Average,Satellite,4G,High
+University,Private,Female,15,Laptop,No,Rural,Good,Satellite,4G,High
+College,Private,Female,21,Tablet,No,Urban,Poor,Mobile Data,4G,High
+College,Private,Female,29,Tablet,Yes,Rural,Poor,Fiber Optic,5G,High
+School,Public,Male,13,Laptop,Yes,Rural,Average,Satellite,4G,Medium
+College,Public,Female,22,Smartphone,Yes,Urban,Average,Broadband,5G,Medium
+College,Public,Male,29,Tablet,No,Urban,Average,Fiber Optic,4G,Medium
+University,Public,Female,29,Desktop,Yes,Rural,Average,Broadband,4G,Medium
+College,Private,Male,23,Tablet,Yes,Rural,Average,Mobile Data,5G,High
+School,Private,Female,17,Desktop,No,Rural,Good,Fiber Optic,4G,Low
+College,Private,Female,25,Desktop,No,Rural,Poor,Mobile Data,4G,Medium
+University,Public,Male,17,Tablet,Yes,Rural,Good,Mobile Data,4G,Medium
+University,Private,Male,18,Tablet,No,Rural,Good,Mobile Data,4G,High
+College,Private,Female,15,Desktop,Yes,Urban,Good,Mobile Data,4G,High
+University,Private,Female,24,Laptop,Yes,Rural,Good,Mobile Data,4G,High
+School,Public,Female,14,Laptop,No,Rural,Good,Fiber Optic,5G,High
+School,Private,Female,20,Tablet,Yes,Rural,Average,Broadband,5G,Low
+College,Public,Female,25,Smartphone,No,Rural,Average,Fiber Optic,5G,Low
+College,Public,Male,28,Laptop,No,Urban,Poor,Fiber Optic,4G,Medium
+College,Public,Male,23,Tablet,Yes,Urban,Good,Fiber Optic,4G,Low
+University,Public,Female,18,Laptop,Yes,Rural,Poor,Satellite,4G,Medium
+School,Private,Male,19,Smartphone,Yes,Rural,Average,Satellite,5G,Medium
+School,Public,Male,26,Tablet,No,Rural,Average,Fiber Optic,4G,Low
+University,Public,Male,29,Smartphone,Yes,Urban,Average,Broadband,5G,Medium
+School,Private,Female,26,Tablet,No,Urban,Good,Fiber Optic,4G,High
+College,Private,Male,17,Smartphone,No,Urban,Good,Mobile Data,4G,Medium
+College,Public,Female,24,Laptop,Yes,Urban,Average,Satellite,4G,High
+College,Private,Male,24,Laptop,No,Urban,Poor,Satellite,5G,Low
+School,Public,Female,14,Smartphone,Yes,Urban,Poor,Fiber Optic,4G,Low
+College,Public,Male,25,Smartphone,Yes,Rural,Average,Fiber Optic,5G,Medium
+University,Public,Female,13,Smartphone,Yes,Urban,Poor,Broadband,4G,High
+University,Public,Female,15,Tablet,Yes,Urban,Average,Broadband,4G,Medium
+School,Private,Male,11,Laptop,Yes,Rural,Poor,Mobile Data,5G,Low
+University,Public,Female,13,Tablet,Yes,Urban,Average,Fiber Optic,4G,Medium
+University,Private,Female,25,Laptop,Yes,Rural,Poor,Fiber Optic,4G,Medium
+School,Private,Female,18,Desktop,No,Urban,Good,Fiber Optic,4G,High
+College,Private,Female,14,Tablet,Yes,Rural,Average,Satellite,4G,Low
+College,Private,Female,12,Laptop,No,Rural,Average,Mobile Data,5G,Medium
+College,Public,Female,20,Laptop,No,Rural,Poor,Broadband,5G,High
+School,Private,Female,14,Tablet,No,Rural,Average,Satellite,4G,Medium
+University,Public,Female,13,Tablet,Yes,Rural,Average,Satellite,4G,High
+College,Private,Male,12,Laptop,No,Urban,Average,Satellite,5G,High
+College,Private,Male,27,Tablet,No,Urban,Good,Satellite,4G,Medium
+School,Public,Female,23,Smartphone,Yes,Rural,Good,Mobile Data,5G,Low
+College,Public,Female,15,Tablet,Yes,Rural,Poor,Fiber Optic,4G,Low
+School,Public,Male,19,Tablet,No,Rural,Good,Broadband,5G,High
+University,Private,Male,16,Tablet,Yes,Urban,Poor,Broadband,5G,Low
+School,Private,Male,15,Laptop,Yes,Rural,Good,Satellite,5G,High
+School,Public,Female,20,Smartphone,Yes,Rural,Poor,Satellite,5G,Low
+School,Public,Male,18,Desktop,Yes,Rural,Good,Mobile Data,4G,Medium
+School,Public,Female,17,Desktop,No,Rural,Good,Satellite,4G,Low
+University,Public,Female,17,Smartphone,Yes,Urban,Poor,Broadband,5G,High
+University,Private,Male,16,Smartphone,Yes,Rural,Average,Broadband,5G,High
+College,Public,Female,13,Smartphone,Yes,Rural,Average,Fiber Optic,5G,Low
+University,Public,Female,29,Laptop,No,Urban,Good,Fiber Optic,5G,Medium
+University,Public,Female,25,Desktop,No,Rural,Poor,Broadband,4G,High
+College,Public,Female,14,Smartphone,Yes,Rural,Average,Broadband,5G,High
+University,Private,Male,22,Laptop,Yes,Urban,Poor,Mobile Data,5G,High
+School,Public,Male,16,Desktop,No,Urban,Average,Mobile Data,5G,High
+School,Private,Female,29,Tablet,Yes,Urban,Poor,Broadband,5G,High
+College,Public,Female,14,Laptop,Yes,Rural,Good,Satellite,5G,Medium
+College,Public,Male,25,Desktop,No,Rural,Poor,Fiber Optic,5G,Low
+College,Private,Female,19,Laptop,Yes,Urban,Average,Broadband,5G,Medium
+School,Public,Male,15,Desktop,Yes,Urban,Good,Satellite,4G,Medium
+University,Private,Female,23,Desktop,No,Urban,Poor,Broadband,5G,High
+School,Private,Female,28,Tablet,No,Rural,Average,Fiber Optic,5G,Medium
+College,Public,Male,15,Laptop,Yes,Rural,Good,Fiber Optic,5G,High
+University,Private,Male,26,Smartphone,No,Urban,Poor,Mobile Data,4G,Medium
+University,Private,Male,29,Tablet,Yes,Rural,Average,Mobile Data,4G,High
+School,Private,Male,24,Tablet,Yes,Urban,Poor,Mobile Data,4G,High
+College,Private,Female,26,Desktop,Yes,Rural,Poor,Mobile Data,5G,Medium
+School,Private,Male,25,Smartphone,No,Rural,Good,Fiber Optic,5G,Medium
+University,Private,Female,14,Laptop,No,Rural,Good,Satellite,5G,Low
+School,Private,Male,17,Smartphone,Yes,Rural,Average,Satellite,4G,Low
+School,Private,Male,26,Smartphone,Yes,Urban,Good,Satellite,5G,Low
+College,Public,Female,18,Smartphone,No,Rural,Average,Broadband,4G,Medium
+College,Public,Male,27,Smartphone,No,Rural,Poor,Mobile Data,4G,Medium
+University,Private,Male,26,Smartphone,No,Urban,Poor,Mobile Data,4G,High
+School,Public,Male,20,Desktop,Yes,Rural,Average,Fiber Optic,4G,Low
+School,Private,Male,20,Desktop,No,Urban,Poor,Fiber Optic,4G,High
+School,Private,Female,12,Tablet,No,Urban,Good,Broadband,5G,High
+University,Public,Female,19,Desktop,Yes,Rural,Poor,Broadband,5G,High
+University,Private,Male,27,Tablet,Yes,Rural,Good,Satellite,4G,High
+College,Private,Male,21,Tablet,Yes,Urban,Average,Fiber Optic,5G,Low
+College,Private,Male,20,Laptop,No,Urban,Average,Mobile Data,5G,High
+College,Private,Female,27,Smartphone,Yes,Urban,Poor,Satellite,4G,Medium
+School,Public,Female,14,Desktop,Yes,Rural,Poor,Mobile Data,4G,Medium
+School,Private,Female,26,Laptop,Yes,Urban,Good,Satellite,5G,Medium
+College,Private,Female,25,Desktop,Yes,Urban,Good,Mobile Data,5G,Low
+School,Private,Male,15,Tablet,No,Urban,Poor,Broadband,5G,High
+College,Public,Male,16,Desktop,Yes,Rural,Poor,Satellite,5G,Low
+University,Private,Male,27,Smartphone,No,Urban,Average,Mobile Data,4G,High
+College,Public,Female,11,Tablet,No,Rural,Average,Mobile Data,5G,Low
+University,Public,Male,29,Tablet,No,Rural,Average,Fiber Optic,4G,Low
+School,Private,Female,14,Laptop,Yes,Urban,Poor,Satellite,4G,High
+College,Private,Female,27,Smartphone,No,Rural,Poor,Mobile Data,5G,Low
+School,Public,Male,19,Tablet,Yes,Urban,Poor,Fiber Optic,5G,High
+University,Private,Male,12,Smartphone,Yes,Rural,Average,Mobile Data,5G,Medium
+University,Public,Male,18,Desktop,Yes,Rural,Poor,Satellite,4G,Medium
+University,Public,Female,25,Smartphone,No,Urban,Good,Broadband,4G,Medium
+School,Private,Female,17,Tablet,Yes,Urban,Poor,Satellite,4G,Low
+School,Private,Male,16,Laptop,Yes,Urban,Poor,Satellite,4G,Medium
+School,Public,Male,11,Tablet,Yes,Rural,Poor,Mobile Data,5G,High
+School,Public,Female,25,Smartphone,No,Rural,Poor,Mobile Data,4G,Medium
+University,Public,Male,17,Smartphone,No,Urban,Poor,Satellite,4G,Medium
+University,Public,Female,27,Tablet,No,Urban,Good,Fiber Optic,5G,Low
+College,Private,Female,12,Smartphone,Yes,Rural,Good,Fiber Optic,4G,High
+College,Private,Male,19,Desktop,No,Rural,Poor,Fiber Optic,4G,Low
+School,Private,Male,19,Tablet,Yes,Rural,Average,Mobile Data,5G,Low
+University,Private,Male,23,Laptop,Yes,Urban,Poor,Mobile Data,4G,High
+University,Private,Male,16,Tablet,No,Rural,Poor,Satellite,4G,Low
+University,Public,Female,16,Desktop,Yes,Urban,Poor,Broadband,4G,High
+College,Private,Female,13,Desktop,No,Rural,Average,Mobile Data,4G,Medium
+College,Private,Female,27,Desktop,Yes,Rural,Average,Satellite,5G,High
+University,Private,Male,27,Desktop,No,Urban,Average,Satellite,4G,High
+University,Private,Female,22,Desktop,Yes,Urban,Good,Broadband,5G,High
+University,Private,Male,26,Laptop,Yes,Urban,Average,Fiber Optic,4G,Low
+College,Public,Male,25,Smartphone,Yes,Rural,Good,Satellite,5G,High
+University,Public,Male,23,Desktop,Yes,Rural,Good,Satellite,5G,High
+University,Public,Male,11,Desktop,Yes,Rural,Average,Satellite,5G,High
+School,Private,Male,27,Tablet,No,Urban,Average,Fiber Optic,4G,Medium
+School,Public,Male,13,Laptop,Yes,Rural,Average,Fiber Optic,4G,High
+College,Public,Female,25,Laptop,No,Urban,Good,Broadband,4G,Low
+University,Private,Male,14,Smartphone,No,Urban,Poor,Mobile Data,5G,High
+University,Private,Female,14,Laptop,No,Urban,Average,Fiber Optic,4G,High
+School,Private,Female,28,Tablet,Yes,Rural,Average,Mobile Data,4G,Medium
+College,Public,Male,27,Tablet,Yes,Rural,Average,Mobile Data,4G,High
+School,Public,Male,29,Smartphone,Yes,Urban,Good,Fiber Optic,4G,Low
+School,Private,Male,21,Tablet,No,Rural,Good,Satellite,5G,High
+School,Private,Female,13,Desktop,Yes,Urban,Poor,Broadband,5G,Low
+School,Public,Male,18,Desktop,Yes,Urban,Average,Mobile Data,4G,Medium
+University,Public,Female,24,Tablet,No,Rural,Good,Satellite,4G,High
+University,Private,Male,11,Smartphone,No,Urban,Poor,Fiber Optic,4G,Medium
+School,Private,Male,24,Laptop,No,Urban,Average,Mobile Data,5G,High
+College,Public,Female,12,Smartphone,No,Rural,Good,Mobile Data,4G,Low
+College,Private,Female,14,Laptop,No,Urban,Average,Mobile Data,5G,Medium
+College,Public,Male,29,Tablet,No,Urban,Average,Satellite,5G,High
+College,Public,Female,16,Tablet,Yes,Urban,Good,Satellite,4G,Low
+School,Public,Female,11,Desktop,No,Urban,Good,Satellite,4G,Medium
+University,Public,Female,27,Laptop,Yes,Urban,Good,Mobile Data,4G,High
+College,Private,Female,18,Smartphone,Yes,Urban,Average,Mobile Data,5G,Medium
+School,Private,Female,29,Tablet,Yes,Urban,Average,Broadband,5G,High
+College,Public,Male,11,Smartphone,No,Rural,Poor,Broadband,4G,Low
+College,Public,Male,15,Desktop,Yes,Rural,Average,Satellite,5G,Low
+School,Public,Female,26,Laptop,No,Urban,Good,Satellite,4G,Medium
+University,Public,Male,16,Laptop,No,Urban,Average,Fiber Optic,4G,Medium
+University,Public,Male,18,Tablet,Yes,Rural,Poor,Satellite,5G,High
+School,Private,Female,23,Laptop,No,Rural,Poor,Broadband,5G,Low
+University,Private,Male,26,Tablet,Yes,Rural,Good,Broadband,5G,High
+School,Private,Female,13,Desktop,Yes,Rural,Good,Broadband,5G,Low
+School,Private,Female,29,Laptop,No,Rural,Poor,Mobile Data,4G,Medium
+School,Public,Male,22,Tablet,Yes,Urban,Poor,Mobile Data,4G,High
+University,Public,Female,26,Smartphone,Yes,Rural,Poor,Satellite,4G,High
+School,Public,Female,21,Tablet,Yes,Rural,Good,Fiber Optic,5G,Low
+College,Public,Female,20,Laptop,No,Rural,Poor,Fiber Optic,4G,Low
+University,Public,Female,14,Desktop,Yes,Urban,Poor,Fiber Optic,5G,Low
+University,Private,Female,22,Laptop,No,Urban,Good,Mobile Data,5G,Medium
+University,Public,Male,12,Laptop,No,Urban,Average,Broadband,5G,High
+University,Private,Male,29,Tablet,Yes,Urban,Average,Broadband,4G,Low
+College,Private,Female,15,Smartphone,Yes,Urban,Poor,Mobile Data,5G,Medium
+University,Private,Female,18,Laptop,No,Urban,Average,Fiber Optic,5G,Low
+University,Private,Male,17,Smartphone,No,Rural,Average,Fiber Optic,5G,High
+School,Public,Female,24,Tablet,Yes,Urban,Average,Satellite,5G,Low
+University,Private,Male,13,Smartphone,Yes,Urban,Average,Satellite,5G,High
+College,Private,Female,28,Tablet,No,Rural,Poor,Fiber Optic,5G,Medium
+College,Private,Female,26,Desktop,No,Urban,Average,Mobile Data,5G,Medium
+College,Public,Female,29,Smartphone,No,Rural,Average,Fiber Optic,5G,Low
+College,Public,Female,29,Smartphone,No,Rural,Good,Satellite,5G,High
+University,Public,Female,28,Desktop,No,Urban,Poor,Fiber Optic,5G,High
+University,Private,Female,26,Smartphone,Yes,Rural,Good,Mobile Data,5G,High
+College,Private,Female,18,Desktop,No,Rural,Good,Broadband,5G,Low
+College,Public,Male,11,Laptop,No,Rural,Poor,Mobile Data,4G,High
+University,Private,Male,27,Tablet,Yes,Rural,Average,Mobile Data,4G,High
+College,Public,Male,22,Desktop,Yes,Urban,Good,Satellite,5G,High
+School,Public,Female,21,Smartphone,No,Rural,Poor,Mobile Data,5G,High
+College,Private,Female,15,Desktop,No,Urban,Average,Mobile Data,5G,Low
+College,Private,Female,22,Smartphone,Yes,Rural,Poor,Satellite,4G,Low
+School,Private,Female,27,Laptop,No,Rural,Good,Satellite,4G,High
+School,Private,Female,16,Desktop,No,Rural,Average,Broadband,4G,High
+University,Public,Female,11,Laptop,Yes,Urban,Average,Fiber Optic,5G,Medium
+University,Public,Female,15,Tablet,No,Urban,Poor,Mobile Data,5G,Medium
+School,Public,Male,24,Smartphone,Yes,Urban,Average,Satellite,5G,High
+School,Public,Female,15,Smartphone,Yes,Rural,Good,Broadband,5G,High
+University,Public,Male,11,Laptop,Yes,Rural,Good,Fiber Optic,4G,Medium
+College,Private,Male,28,Tablet,Yes,Rural,Good,Satellite,5G,Medium
+School,Public,Female,26,Desktop,No,Rural,Poor,Fiber Optic,4G,High
+University,Public,Female,19,Desktop,Yes,Urban,Average,Fiber Optic,4G,Low
+College,Public,Male,29,Smartphone,No,Rural,Average,Mobile Data,5G,Low
+School,Private,Male,15,Laptop,No,Urban,Average,Mobile Data,4G,High
+College,Private,Female,12,Laptop,No,Rural,Good,Satellite,4G,High
+University,Private,Female,25,Desktop,No,Urban,Average,Fiber Optic,4G,Medium
+School,Private,Male,17,Tablet,No,Urban,Good,Satellite,4G,Medium
+College,Public,Female,14,Tablet,Yes,Rural,Average,Satellite,5G,Low
+School,Public,Female,11,Desktop,Yes,Rural,Good,Fiber Optic,5G,High
+College,Private,Female,23,Desktop,Yes,Urban,Average,Satellite,4G,Medium
+University,Private,Male,17,Laptop,Yes,Rural,Poor,Fiber Optic,5G,Low
+University,Public,Male,25,Tablet,No,Rural,Poor,Fiber Optic,4G,Low
